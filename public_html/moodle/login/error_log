@@ -1,0 +1,1 @@
+[30-Apr-2024 00:29:32 UTC] PHP Deprecated:  Creation of dynamic property cache_config::$configlockmappings is deprecated in /home/jp3600276f4k/public_html/moodle/cache/classes/config.php on line 146
