@@ -180,6 +180,57 @@
         </div>
       </div>
     </div>
+    
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="row">
+            
+            <div class="col-lg-6 align-self-center  wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
+              <div class="about-right-content">
+                <div class="section-heading">
+                  <h6>Accreditation</h6>
+                  <h4>DOLE <em>OSHC TRAINING</em></h4>
+                  <div class="line-dec"></div>
+                </div>
+                <p> WilSafe Training  Center recieved our Accreditation for OSH TRAINING ORGANIZATION.</p>
+              </div>
+            </div>
+            <div class="col-lg-6">
+              <div class="about-left-image  wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s">
+                <img src="assets/images/dole1-new.jpg" alt="">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="row">
+          <div class="col-lg-6">
+              <div class="about-left-image  wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s">
+                <img src="assets/images/dole2-new.jpg" alt="">
+              </div>
+            </div>
+            <div class="col-lg-6 align-self-center  wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
+              <div class="about-right-content">
+                <div class="section-heading">
+                  <h6>Accreditation</h6>
+                  <h4>DOLE <em>ONLINE OSHC TRAINING</em></h4>
+                  <div class="line-dec"></div>
+                </div>
+                <p> WilSafe Training  Center recieved our Accreditation for ONLINE OSH TRAINING ORGANIZATION.</p>
+              </div>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+
     <div class="container">
       <div class="row">
         <div class="col-lg-12">

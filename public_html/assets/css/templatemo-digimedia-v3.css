@@ -1870,6 +1870,24 @@ Blog
   line-height: 30px;
 }
 
+/* 
+---------------------------------------------
+our team
+--------------------------------------------- 
+*/
+
+.team4 .section-heading .line-dec {
+  margin: 0 auto;
+}
+
+.team4 {
+  padding-top: 130px;
+}
+
+.team4 .section-heading {
+  text-align: center;
+  margin-bottom: 80px;
+}
 
 /* 
 ---------------------------------------------

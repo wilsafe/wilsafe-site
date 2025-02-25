@@ -84,6 +84,7 @@
                               <li><a href="index.php">Home</a></li>
                               <li><a href="about.php">About</a></li>
                               <li><a href="gallery/gallery.html">Gallery</a></li>
+                              <li><a href="our-team.php">Our Team</a></li>
                               <li><a href="contact.php">Contact</a></li>
                           </ul>
               </li>
@@ -153,27 +154,34 @@
 
 
 
-<div class="py-5 team4">
+<div class="py-5 team4 contact-us section">
   <div class="container">
     <div class="row justify-content-center mb-4">
-      <div class="col-md-7 text-center">
-        <h3 class="mb-3">Experienced & Professional Team</h3>
+      <!-- <div class="col-md-7 text-center">
+        <h6 class="mb-3">Meet Our Team</h6>
         <h6 class="subtitle">You can relay on our amazing features list and also our customer services will be great experience for you without doubt and in no-time</h6>
-      </div>
+      </div> -->
+      <div>
+          <div class="section-heading wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s">
+            <h6>Meet Our Team</h6>
+            <h4>WilSafe Training Center Corp. <em>Team</em></h4>
+            <div class="line-dec"></div>
+          </div>
+        </div>
     </div>
-    <div class="row">
+    <div class="row wow fadeInRight">
       <!-- column  -->
       <div class="col-lg-3 mb-4">
         <!-- Row -->
         <div class="row">
           <div class="col-md-12">
-            <img src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/team/t1.jpg" alt="wrapkit" class="img-fluid rounded-circle" />
+            <img src="./assets/images/team/mr_wilbert.png" alt="wrapkit" class="img-fluid rounded-circle" />
           </div>
           <div class="col-md-12 text-center">
             <div class="pt-2">
-              <h5 class="mt-4 font-weight-medium mb-0">Michael Doe</h5>
-              <h6 class="subtitle mb-3">Property Specialist</h6>
-              <p>You can relay on our amazing features list and also our customer services will be great experience.</p>
+              <h5 class="mt-4 font-weight-medium mb-0">Mr. Wilbert T. Tolosa</h5>
+              <h6 class="subtitle mb-3">CEO/Training Director</h6>
+              <!-- <p>You can relay on our amazing features list and also our customer services will be great experience.</p> -->
               <ul class="list-inline">
                 <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-facebook"></i></a></li>
                 <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-twitter"></i></a></li>
@@ -191,13 +199,13 @@
         <!-- Row -->
         <div class="row">
           <div class="col-md-12">
-            <img src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/team/t2.jpg" alt="wrapkit" class="img-fluid rounded-circle" />
+            <img src="./assets/images/team/ms_marielle.png" alt="wrapkit" class="img-fluid rounded-circle" />
           </div>
           <div class="col-md-12 text-center">
             <div class="pt-2">
-              <h5 class="mt-4 font-weight-medium mb-0">Michael Doe</h5>
-              <h6 class="subtitle mb-3">Property Specialist</h6>
-              <p>You can relay on our amazing features list and also our customer services will be great experience.</p>
+              <h5 class="mt-4 font-weight-medium mb-0">Ms. Marielle Molon Tolosa</h5>
+              <h6 class="subtitle mb-3">Vice President - Marketing/HR</h6>
+              <!-- <p>You can relay on our amazing features list and also our customer services will be great experience.</p> -->
               <ul class="list-inline">
                 <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-facebook"></i></a></li>
                 <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-twitter"></i></a></li>
@@ -215,13 +223,13 @@
         <!-- Row -->
         <div class="row">
           <div class="col-md-12">
-            <img src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/team/t3.jpg" alt="wrapkit" class="img-fluid rounded-circle" />
+            <img src="./assets/images/team/ms_renelle.png" alt="wrapkit" class="img-fluid rounded-circle" />
           </div>
           <div class="col-md-12 text-center">
             <div class="pt-2">
-              <h5 class="mt-4 font-weight-medium mb-0">Michael Doe</h5>
-              <h6 class="subtitle mb-3">Property Specialist</h6>
-              <p>You can relay on our amazing features list and also our customer services will be great experience.</p>
+              <h5 class="mt-4 font-weight-medium mb-0">Renelle Sotto Belarmino</h5>
+              <h6 class="subtitle mb-3">Vice President - Finance</h6>
+              <!-- <p>You can relay on our amazing features list and also our customer services will be great experience.</p> -->
               <ul class="list-inline">
                 <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-facebook"></i></a></li>
                 <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-twitter"></i></a></li>
@@ -239,13 +247,13 @@
         <!-- Row -->
         <div class="row">
           <div class="col-md-12">
-            <img src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/team/t4.jpg" alt="wrapkit" class="img-fluid rounded-circle" />
+            <img src="./assets/images/team/mr_jared.png" alt="wrapkit" class="img-fluid rounded-circle" />
           </div>
           <div class="col-md-12 text-center">
             <div class="pt-2">
-              <h5 class="mt-4 font-weight-medium mb-0">Michael Doe</h5>
-              <h6 class="subtitle mb-3">Property Specialist</h6>
-              <p>You can relay on our amazing features list and also our customer services will be great experience.</p>
+              <h5 class="mt-4 font-weight-medium mb-0">Jared Diaz Belarmino</h5>
+              <h6 class="subtitle mb-3">Vice President - Operation</h6>
+              <!-- <p>You can relay on our amazing features list and also our customer services will be great experience.</p> -->
               <ul class="list-inline">
                 <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-facebook"></i></a></li>
                 <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-twitter"></i></a></li>
@@ -261,8 +269,9 @@
   </div>
 </div>
 
-
-
+<div class="container">
+  <img class="img-responsive" src="./assets/images/org-chart.png" alt="Organizational Chart"> 
+</div>
 
 
   <!-- <div id="about" class="about section">
