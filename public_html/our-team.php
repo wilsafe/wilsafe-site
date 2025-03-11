@@ -163,9 +163,9 @@
       </div> -->
       <div>
           <div class="section-heading wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s">
-            <h6>Meet Our Team</h6>
-            <h4>WilSafe Training Center Corp. <em>Team</em></h4>
-            <div class="line-dec"></div>
+            <h6 style="font-size: 4.5rem;">Meet Our Team</h6>
+            <h4 style="font-size: 2rem;">WilSafe Training Center Corp. <em>Team</em></h4>
+            <div class="line-dec" style="width: 100%;"></div>
           </div>
         </div>
     </div>
@@ -180,7 +180,8 @@
           <div class="col-md-12 text-center">
             <div class="pt-2">
               <h5 class="mt-4 font-weight-medium mb-0">Mr. Wilbert T. Tolosa</h5>
-              <h6 class="subtitle mb-3">CEO/Training Director</h6>
+              <h6 class="subtitle">CEO/Training President</h6>
+              <h6 class="subtitle">TVI/DOLE-OSHC</h6>
               <!-- <p>You can relay on our amazing features list and also our customer services will be great experience.</p> -->
               <ul class="list-inline">
                 <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-facebook"></i></a></li>
@@ -204,7 +205,8 @@
           <div class="col-md-12 text-center">
             <div class="pt-2">
               <h5 class="mt-4 font-weight-medium mb-0">Ms. Marielle Molon Tolosa</h5>
-              <h6 class="subtitle mb-3">Vice President - Marketing/HR</h6>
+              <h6 class="subtitle">Vice President - Marketing/HR</h6>
+              <h6 class="subtitle">TVI/DOLE-OSHC</h6>
               <!-- <p>You can relay on our amazing features list and also our customer services will be great experience.</p> -->
               <ul class="list-inline">
                 <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-facebook"></i></a></li>
@@ -228,7 +230,8 @@
           <div class="col-md-12 text-center">
             <div class="pt-2">
               <h5 class="mt-4 font-weight-medium mb-0">Renelle Sotto Belarmino</h5>
-              <h6 class="subtitle mb-3">BOD</h6>
+              <h6 class="subtitle">BOD</h6>
+              <h6 class="subtitle">TVI</h6>
               <!-- <p>You can relay on our amazing features list and also our customer services will be great experience.</p> -->
               <ul class="list-inline">
                 <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-facebook"></i></a></li>
@@ -252,7 +255,8 @@
           <div class="col-md-12 text-center">
             <div class="pt-2">
               <h5 class="mt-4 font-weight-medium mb-0">Jared Diaz Belarmino</h5>
-              <h6 class="subtitle mb-3">Vice President - Operation</h6>
+              <h6 class="subtitle">Vice President - Operation</h6>
+              <h6 class="subtitle">TVI</h6>
               <!-- <p>You can relay on our amazing features list and also our customer services will be great experience.</p> -->
               <ul class="list-inline">
                 <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-facebook"></i></a></li>
@@ -269,14 +273,14 @@
   </div>
 </div>
 
-<!-- <div class="container">
-  <img class="img-responsive" src="./assets/images/org-chart.png" alt="Organizational Chart"> 
-</div> -->
+<div class="container"> 
+  <img src="assets/images/org-chart.png" alt="Organizational Chart"> 
+</div>
 
 
   <!-- <div id="about" class="about section">
     <div class="container">
-      <div class="row">
+      <div class="row">s
         <div class="col-lg-12">
           <div class="row">
             <div class="col-lg-6">

@@ -33,6 +33,9 @@
     <link rel="stylesheet" href="assets/css/animated.css">
     <link rel="stylesheet" href="assets/css/owl.css">
     <link rel="stylesheet" href="assets/css/style.css" />
+    <!-- Owl Carousel CSS -->
+    <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
     
     
 
@@ -41,8 +44,8 @@
 <body>
 <div class="popup" id="popupContact">
 
-      <div id="contactForm">
-        <button id="close">&times;</button>
+<div id="contactForm">
+<button id="close">&times;</button>
           <h1>Contact us</h1>
           <small>Get in touch with us now</small>
             <?php echo $alert; ?>
@@ -680,6 +683,207 @@
     </div>
   </div>
 
+<!-- Testimonials -->
+<div id="testimonials" class="testimonials section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
+          <h6>Testimonials</h6>
+          <h4>What Our Students <em>Say</em></h4>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="owl-carousel owl-theme">
+          <div class="testimonial-card">
+            <div class="img-card">
+              <img src="assets/images/ryan.jpg" alt="Ryan Del Monte">
+            </div>
+            <div class="inner-content">
+              <h4 class="name">Ryan Del Monte</h4>
+              <p>"Maraming Salamat po sa wilsafe training center sa kaalaman binahagi ninyo sa amin and i wish you and your safety training center the very best going forward Godbless you all mam/sir!"</p>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <div class="img-card">
+              <img src="assets/images/Layy.jpg" alt="Layy Loayon">
+            </div>
+            <div class="inner-content">
+              <h4 class="name">Layy Loayon</h4>
+              <p>"Wilsafe Training Center has a very good and kind speakers, all the topics discussed was very detailed, presentable, knowledgeable, direct and fun activity. I'll recommend this to my friends. Thank you, Wilsafe!"</p>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <div class="img-card">
+              <img src="assets/images/Sabidals.jpg" alt="Dok's Tribujenia Sabidals">
+            </div>
+            <div class="inner-content">
+              <h4 class="name">Dok's Tribujenia Sabidals</h4>
+              <p>"Andito sa Wilsafe ang lahat ng pwede mong malaman tungkol sa safety."</p>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <div class="img-card">
+              <img src="assets/images/elgz.jpg" alt="Elgz Igloria">
+            </div>
+            <div class="inner-content">
+              <h4 class="name">Elgz Igloria</h4>
+              <p>"Good afternoon sir Wilbert Tolosa, maraming salamat po sa na pabahagi niyo pong mga kaalaman tungkol sa safety program, at salamat din ko kai Dra. Christina Francisco,,,na sana po madami pakayong maturuan ng kaalaman tungkol sa safety program,, GOD BLESS all ang Thank You!"</p>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <div class="img-card">
+              <img src="assets/images/georlan.jpg" alt="Georlan">
+            </div>
+            <div class="inner-content">
+              <h4 class="name">Georlan</h4>
+              <p>"Maayos at madami natutunan sa seminar na ito."</p>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <div class="img-card">
+              <img src="assets/images/wilky.jpg" alt="Wilky Gonzales Borata">
+            </div>
+            <div class="inner-content">
+              <h4 class="name">Wilky Gonzales Borata</h4>
+              <p>"Maraming salamat sa lahat sir Wilbert Tolosa, ma'am Christine, ma'am Mae Tee at sa bumubuo ng WilSafe. Marami po kaming natutunan at sana marami pa kayong matulungan sa hinaharap. Salamat po!"</p>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <div class="img-card">
+              <img src="assets/images/christian.jpg" alt="Christian Guarde Inocentes">
+            </div>
+            <div class="inner-content">
+              <h4 class="name">Christian Guarde Inocentes</h4>
+              <p>"Maraming salamat po sir WIlbert Tolosa, ma'am Christine & ma'am Mae Tee. Maraming salamat po sa inyong lahat at sa bumubuo ng Wilsafe Training Center for sharing with us your time, knowledge and skills."</p>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <div class="img-card">
+              <img src="assets/images/mj.jpg" alt="MJ Anthony Ebuna Mesias">
+            </div>
+            <div class="inner-content">
+              <h4 class="name">MJ Anthony Ebuna Mesias</h4>
+              <p>"Maraming salamat po Engr. Wilbert Tolosa at Dr. Christine Francisco sa mga ibinahagi nyo pong mga kaalaman about sa safety at sa mga dinagdag nyo na mga karanasan sa totoong buhay patungkol sa safety. Maraming salamat po dahil marami po kaming natutunan. At kay ma'am Mae Tee, salamat po sa pag organize at WilSafe salamat po sa tulong nyo. God bless po. "</p>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <div class="img-card">
+              <img src="assets/images/ann.jpg" alt="Mahalko Ann">
+            </div>
+            <div class="inner-content">
+              <h4 class="name">Mahalko Ann</h4>
+              <p>"Nasakit ulo ko ma'am sa ginagawa ko but all I can say I'm so proud I became your student because I've learned so many things regarding this and thank you so much to all members of your training school. I will recommend to my friends."</p>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <div class="img-card">
+              <img src="assets/images/rosalinda.jpg" alt="Rosalinda Arabes Lacbayo">
+            </div>
+            <div class="inner-content">
+              <h4 class="name">Rosalinda Arabes Lacbayo</h4>
+              <p>"Mga magagaling na speaker."</p>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <div class="img-card">
+              <img src="assets/images/jan.jpg" alt="Jan Nikolai Gongora">
+            </div>
+            <div class="inner-content">
+              <h4 class="name">Jan Nikolai Gongora</h4>
+              <p>"Overall training is effective and very informative. Using more interactive elements can help further improve it."</p>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <div class="img-card">
+              <img src="assets/images/lyn.jpg" alt="Lyn Bacale Dumaguete">
+            </div>
+            <div class="inner-content">
+              <h4 class="name">Lyn Bacale Dumaguete</h4>
+              <p>"All presented lessons and training are enough and i am satisfied with the job they did."</p>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <div class="img-card">
+              <img src="assets/images/kezia.jpg" alt="Kezia Kristel Ticoy Cabral">
+            </div>
+            <div class="inner-content">
+              <h4 class="name">Kezia Kristel Ticoy Cabral</h4>
+              <p>"It was an excellent 4-day training and i can't suggest or recommend more from all the discussions/lessons."</p>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <div class="img-card">
+              <img src="assets/images/user.jpg" alt="Koko Ryan">
+            </div>
+            <div class="inner-content">
+              <h4 class="name">Koko Ryan</h4>
+              <p>"So far very satisfied po ako sa lahat, very recommended po sa iba pang gusto maging certified SO at sa mga gusto mag upgrade ng trainings."</p>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <div class="img-card">
+              <img src="assets/images/mark.jpg" alt="Mark Carpenters">
+            </div>
+            <div class="inner-content">
+              <h4 class="name">Mark Carpenters</h4>
+              <p>"Ang instructor ay mahusay at may malalim na kaalaman sa kanyang larangan sa Safety. Ang kanilang paraan ng pagtuturo ay madaling maunawaan."</p>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <div class="img-card">
+              <img src="assets/images/user.jpg" alt="Charis Tizon Jandoc">
+            </div>
+            <div class="inner-content">
+              <h4 class="name">Charis Tizon Jandoc</h4>
+              <p>"Hello po, thank you po for the great training you offered to us. Very useful po sa amin na magagamit namin sa future job na papasukan. Sana po marami pa kayung maturuan. More power po and God bless po sa inyu."</p>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <div class="img-card">
+              <img src="assets/images/user.jpg" alt="Norhaiden Balade">
+            </div>
+            <div class="inner-content">
+              <h4 class="name">Norhaiden Balade</h4>
+              <p>"Sa WILSAFE training center po ay marami po akong natutunan na pwede ko maibahagi sa aking trabaho kaya very satisfied po ako sa WILSAFE TAINING CENTER nagpapasalamat din ako sa mga staff ng WILSAFE TRAINING CENTER dahil ang bilis nilang mag response kapag may mga tanong ako kaya mag eenroll ulit ako dito kung may bakante akong oras kaya maraming maraming salamat WILSAFE TRAINING CENTER hanggang muli!"</p>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <div class="img-card">
+              <img src="assets/images/manuel.jpg" alt="Manuel Arnuco">
+            </div>
+            <div class="inner-content">
+              <h4 class="name">Manuel Arnuco</h4>
+              <p>"Good morning Po ma'am maraming salamat Po sa pag turo niyo Po sa akin malaking tulong ito sa akin Po ma'am. Maraming salamat po!"</p>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <div class="img-card">
+              <img src="assets/images/user.jpg" alt="Russel Carandang">
+            </div>
+            <div class="inner-content">
+              <h4 class="name">Russel Carandang</h4>
+              <p>"Ang discussion po sa WilSafe ay compressed and easy to digest, also, very lively every meeting at ramdam mo na alam na alam ng lecturer ang tinuturo nya. Will definitely recommend WilSafe to anyone na balak kumuha ng certification/s. Thank you so much for the knowledge, Sir Wil!"</p>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <div class="img-card">
+              <img src="assets/images/user.jpg" alt="Nicole Kei">
+            </div>
+            <div class="inner-content">
+              <h4 class="name">Nicole Kei</h4>
+              <p>"I recently completed the Construction Occupational Service and Health course, and I must say it was an incredibly enriching experience. The course covered a wide range of essential topics, and I learned a lot about safety practices, regulations, and the importance of maintaining a healthy work environment in the construction industry. A huge highlight of the course was the instructor, Sir Will. His teaching style was engaging, thorough, and easy to follow. He brought real-world experience into the lessons, making the material much more relatable and practical. Sir Will’s dedication and passion for the subject were evident, and he always encouraged questions and discussions to ensure everyone understood the material. Overall, I feel much more confident and equipped to work safely and effectively in the construction field. Highly recommend this course to anyone looking to advance their knowledge in construction health and safety! Thank you so much Wilsafe Training until next time. Bosh naman hehe."</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
   <div id="contact" class="contact-us section">
     <div class="container">
       <div class="row">
@@ -906,6 +1110,55 @@ btnText.innerHTML = "Read less";
 moreText.style.display = "inline";
 }
 }
+</script>
+
+<script>
+  $(document).ready(function(){
+    $(".loop").owlCarousel({
+      autoplay: true,
+      autoplayTimeout: 3000,
+      loop: true,
+      margin: 10,
+      nav: true,
+      responsiveClass: true,
+      responsive: {
+        0: {
+          items: 1
+        },
+        600: {
+          items: 2
+        },
+        1000: {
+          items: 3
+        }
+      }
+    });
+  });
+</script>
+
+<script>
+  $(document).ready(function(){
+    $(".owl-carousel").owlCarousel({
+      items: 3,
+      margin: 30, // Adjust margin between items
+      loop: true,
+      autoplay: true,
+      autoplayTimeout: 3000,
+      autoplayHoverPause: true,
+      center: true, // Center the active item
+      responsive: {
+        0: {
+          items: 1
+        },
+        600: {
+          items: 2
+        },
+        1000: {
+          items: 3
+        }
+      }
+    });
+  });
 </script>
 
 

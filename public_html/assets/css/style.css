@@ -1,9 +1,107 @@
+/* Importing fonts from Google */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+/* Reseting */
 * {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-  font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
 }
+
+body {
+    min-height: 100vh;
+}
+
+.owl-carousel .owl-item {
+    transition: all 0.3s ease-in-out;
+}
+
+.owl-carousel .owl-item .card {
+  padding: 20px; /* Reduced padding from 30px to 20px */
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  transition: all 0.3s ease;
+}
+
+.owl-carousel .owl-stage-outer {
+    overflow-y: auto !important;
+    padding-bottom: 40px;
+}
+
+.owl-carousel .owl-item img {
+  height: auto;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 0; 
+  border: none; 
+}
+
+.owl-carousel .owl-item .card .name {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: green;
+  padding: 0.3rem 0.4rem;
+  margin-top: 20px;
+}
+
+.owl-carousel .owl-item .card {
+  padding: 20px; /* Reduced padding from 30px to 20px */
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+.owl-carousel .owl-item.active.center .card {
+    opacity: 1;
+    transform: scale3d(1, 1, 1);
+}
+
+.owl-carousel .owl-dots {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+
+.owl-theme .owl-dots .owl-dot span {
+    height: 20px;
+    border-radius: 2px !important;
+    opacity: 0.8;
+}
+
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span {
+    height: 13px;
+    width: 13px;
+    opacity: 1;
+    transform: translateY(2px);
+}
+
+@media(min-width: 480.6px) and (max-width: 575.5px) {
+    .owl-carousel .owl-item .card .name {
+        left: 24%;
+    }
+}
+
+@media(max-width: 360px) {
+    .owl-carousel .owl-item .card .name {
+        left: 30%;
+    }
+}
+
 .popup{
   z-index: 99;
   background-color: #2a2a2a;
@@ -255,8 +353,194 @@ p {
           color: #70c745; }
     .breadcrumb-area .breadcrumb .breadcrumb-item + .breadcrumb-item::before {
       color: #303030;
-      content: ">"; }
-      
+      content: ">";
+    }
 
+/* Testimonials Section Styles */
+.testimonials {
+  padding: 60px 0;
+  background-color: #f9f9f9;
+}
 
-     
+.testimonials .section-heading {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.testimonials .section-heading::after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 3px;
+  background-color: #70c745;
+  margin: 10px auto 0;
+}
+
+.testimonial-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 5px; 
+  margin-bottom: 10px;
+}
+
+.testimonial-card {
+  padding: 20px; 
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  opacity: 1;
+  transition: transform 0.3s, box-shadow 0.3s; 
+  background: linear-gradient(#f9f9f9, #ffffff);
+  margin: 15px;
+  border: 2px solid green; 
+  height: auto; /* Set height to auto to depend on content */
+  min-height: 300px; /* Ensure a minimum height */
+}
+
+.testimonial-card:nth-child(odd) {
+  margin-top: 30px; 
+}
+
+.owl-carousel .owl-item.center .testimonial-card {
+  transform: scale(1.1); 
+  z-index: 1; 
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  background: linear-gradient(#ccffcc, #ffffff);
+}
+
+.testimonial-card:hover {
+  background: linear-gradient(#f9f9f9, #ffffff); /
+}
+
+.testimonial-card .img-card {
+  position: relative;
+  margin-bottom: 20px;
+  height: 85px; 
+  width: 85px;  
+  border-radius: 50%; 
+  overflow: hidden; 
+}
+
+.testimonial-card img {
+  width: 100%; 
+  height: 100%; 
+  object-fit: cover; 
+  border-radius: 50%; 
+  border: 5px solid green; 
+}
+
+.testimonial-card .testimonial {
+  margin-top: 15px; /* Reduced margin-top from 20px to 15px */
+  font-size: 0.85rem; /* Reduced font-size from 0.9rem to 0.85rem */
+  color: #333;
+  flex-grow: 1;
+}
+
+.testimonial-card .name {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-top: 3px;
+  margin-bottom: 8px;
+  color: green;
+}
+
+/* Owl Carousel Styles */
+.owl-carousel .owl-item {
+  transition: all 0.3s ease-in-out;
+}
+
+.owl-carousel .owl-item.center .testimonial-card {
+  transform: scale(1.1); 
+  z-index: 1; 
+}
+
+.owl-carousel .owl-item .card {
+  padding: 20px; /* Reduced padding from 30px to 20px */
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  transition: all 0.3s ease;
+}
+
+.owl-carousel .owl-stage-outer {
+  overflow-y: auto !important;
+  padding-bottom: 40px;
+}
+
+.owl-carousel .owl-item img {
+  height: auto;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 0; 
+  border: none; 
+}
+
+.owl-carousel .owl-item .card .name {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: green;
+  padding: 0.3rem 0.4rem;
+  margin-top: 20px;
+}
+
+.owl-carousel .owl-item .card {
+  padding: 20px; /* Reduced padding from 30px to 20px */
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+.owl-carousel .owl-item.active.center .card {
+  opacity: 1;
+  transform: scale3d(1, 1, 1);
+}
+
+.owl-carousel .owl-dots {
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+}
+
+.owl-theme .owl-dots .owl-dot span {
+  height: 20px;
+  border-radius: 2px !important;
+  opacity: 0.8;
+}
+
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span {
+  height: 13px;
+  width: 13px;
+  opacity: 1;
+  transform: translateY(2px);
+}
+
+@media(min-width: 480.6px) and (max-width: 575.5px) {
+  .owl-carousel .owl-item .card .name {
+    left: 24%;
+  }
+}
+
+@media(max-width: 360px) {
+  .owl-carousel .owl-item .card .name {
+    left: 30%;
+  }
+}
