@@ -883,6 +883,26 @@
   </div>
 </div>
 
+<!-- Partners and Sponsors -->
+<div id="partners" class="partners section" style="margin-top: 50px;">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
+          <h6>Partners and Sponsors</h6>
+          <h4>Our <em>Partners</em> and <em>Sponsors</em></h4>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="partners-logos">
+          <img src="assets/images/partners&sponsors.png" alt="Partners and Sponsors" id="partners-logo">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
   <div id="contact" class="contact-us section">
     <div class="container">
