@@ -699,7 +699,7 @@
         <div class="owl-carousel owl-theme">
           <div class="testimonial-card">
             <div class="img-card">
-              <img src="assets/images/ryan.jpg" alt="Ryan Del Monte">
+              <img src="assets/images/testimonials/ryan.jpg" alt="Ryan Del Monte">
             </div>
             <div class="inner-content">
               <h4 class="name">Ryan Del Monte</h4>
@@ -708,7 +708,7 @@
           </div>
           <div class="testimonial-card">
             <div class="img-card">
-              <img src="assets/images/Layy.jpg" alt="Layy Loayon">
+              <img src="assets/images/testimonials/Layy.jpg" alt="Layy Loayon">
             </div>
             <div class="inner-content">
               <h4 class="name">Layy Loayon</h4>
@@ -717,7 +717,7 @@
           </div>
           <div class="testimonial-card">
             <div class="img-card">
-              <img src="assets/images/Sabidals.jpg" alt="Dok's Tribujenia Sabidals">
+              <img src="assets/images/testimonials/Sabidals.jpg" alt="Dok's Tribujenia Sabidals">
             </div>
             <div class="inner-content">
               <h4 class="name">Dok's Tribujenia Sabidals</h4>
@@ -726,7 +726,7 @@
           </div>
           <div class="testimonial-card">
             <div class="img-card">
-              <img src="assets/images/elgz.jpg" alt="Elgz Igloria">
+              <img src="assets/images/testimonials/elgz.jpg" alt="Elgz Igloria">
             </div>
             <div class="inner-content">
               <h4 class="name">Elgz Igloria</h4>
@@ -735,7 +735,7 @@
           </div>
           <div class="testimonial-card">
             <div class="img-card">
-              <img src="assets/images/georlan.jpg" alt="Georlan">
+              <img src="assets/images/testimonials/georlan.jpg" alt="Georlan">
             </div>
             <div class="inner-content">
               <h4 class="name">Georlan</h4>
@@ -744,7 +744,7 @@
           </div>
           <div class="testimonial-card">
             <div class="img-card">
-              <img src="assets/images/wilky.jpg" alt="Wilky Gonzales Borata">
+              <img src="assets/images/testimonials/wilky.jpg" alt="Wilky Gonzales Borata">
             </div>
             <div class="inner-content">
               <h4 class="name">Wilky Gonzales Borata</h4>
@@ -753,7 +753,7 @@
           </div>
           <div class="testimonial-card">
             <div class="img-card">
-              <img src="assets/images/christian.jpg" alt="Christian Guarde Inocentes">
+              <img src="assets/images/testimonials/christian.jpg" alt="Christian Guarde Inocentes">
             </div>
             <div class="inner-content">
               <h4 class="name">Christian Guarde Inocentes</h4>
@@ -762,7 +762,7 @@
           </div>
           <div class="testimonial-card">
             <div class="img-card">
-              <img src="assets/images/mj.jpg" alt="MJ Anthony Ebuna Mesias">
+              <img src="assets/images/testimonials/mj.jpg" alt="MJ Anthony Ebuna Mesias">
             </div>
             <div class="inner-content">
               <h4 class="name">MJ Anthony Ebuna Mesias</h4>
@@ -771,7 +771,7 @@
           </div>
           <div class="testimonial-card">
             <div class="img-card">
-              <img src="assets/images/ann.jpg" alt="Mahalko Ann">
+              <img src="assets/images/testimonials/ann.jpg" alt="Mahalko Ann">
             </div>
             <div class="inner-content">
               <h4 class="name">Mahalko Ann</h4>
@@ -780,7 +780,7 @@
           </div>
           <div class="testimonial-card">
             <div class="img-card">
-              <img src="assets/images/rosalinda.jpg" alt="Rosalinda Arabes Lacbayo">
+              <img src="assets/images/testimonials/rosalinda.jpg" alt="Rosalinda Arabes Lacbayo">
             </div>
             <div class="inner-content">
               <h4 class="name">Rosalinda Arabes Lacbayo</h4>
@@ -789,7 +789,7 @@
           </div>
           <div class="testimonial-card">
             <div class="img-card">
-              <img src="assets/images/jan.jpg" alt="Jan Nikolai Gongora">
+              <img src="assets/images/testimonials/jan.jpg" alt="Jan Nikolai Gongora">
             </div>
             <div class="inner-content">
               <h4 class="name">Jan Nikolai Gongora</h4>
@@ -798,7 +798,7 @@
           </div>
           <div class="testimonial-card">
             <div class="img-card">
-              <img src="assets/images/lyn.jpg" alt="Lyn Bacale Dumaguete">
+              <img src="assets/images/testimonials/lyn.jpg" alt="Lyn Bacale Dumaguete">
             </div>
             <div class="inner-content">
               <h4 class="name">Lyn Bacale Dumaguete</h4>
@@ -807,7 +807,7 @@
           </div>
           <div class="testimonial-card">
             <div class="img-card">
-              <img src="assets/images/kezia.jpg" alt="Kezia Kristel Ticoy Cabral">
+              <img src="assets/images/testimonials/kezia.jpg" alt="Kezia Kristel Ticoy Cabral">
             </div>
             <div class="inner-content">
               <h4 class="name">Kezia Kristel Ticoy Cabral</h4>
@@ -816,7 +816,7 @@
           </div>
           <div class="testimonial-card">
             <div class="img-card">
-              <img src="assets/images/user.jpg" alt="Koko Ryan">
+              <img src="assets/images/testimonials/user.jpg" alt="Koko Ryan">
             </div>
             <div class="inner-content">
               <h4 class="name">Koko Ryan</h4>
@@ -825,7 +825,7 @@
           </div>
           <div class="testimonial-card">
             <div class="img-card">
-              <img src="assets/images/mark.jpg" alt="Mark Carpenters">
+              <img src="assets/images/testimonials/mark.jpg" alt="Mark Carpenters">
             </div>
             <div class="inner-content">
               <h4 class="name">Mark Carpenters</h4>
@@ -834,7 +834,7 @@
           </div>
           <div class="testimonial-card">
             <div class="img-card">
-              <img src="assets/images/user.jpg" alt="Charis Tizon Jandoc">
+              <img src="assets/images/testimonials/user.jpg" alt="Charis Tizon Jandoc">
             </div>
             <div class="inner-content">
               <h4 class="name">Charis Tizon Jandoc</h4>
@@ -843,7 +843,7 @@
           </div>
           <div class="testimonial-card">
             <div class="img-card">
-              <img src="assets/images/user.jpg" alt="Norhaiden Balade">
+              <img src="assets/images/testimonials/user.jpg" alt="Norhaiden Balade">
             </div>
             <div class="inner-content">
               <h4 class="name">Norhaiden Balade</h4>
@@ -852,7 +852,7 @@
           </div>
           <div class="testimonial-card">
             <div class="img-card">
-              <img src="assets/images/manuel.jpg" alt="Manuel Arnuco">
+              <img src="assets/images/testimonials/manuel.jpg" alt="Manuel Arnuco">
             </div>
             <div class="inner-content">
               <h4 class="name">Manuel Arnuco</h4>
@@ -861,7 +861,7 @@
           </div>
           <div class="testimonial-card">
             <div class="img-card">
-              <img src="assets/images/user.jpg" alt="Russel Carandang">
+              <img src="assets/images/testimonials/user.jpg" alt="Russel Carandang">
             </div>
             <div class="inner-content">
               <h4 class="name">Russel Carandang</h4>
@@ -870,7 +870,7 @@
           </div>
           <div class="testimonial-card">
             <div class="img-card">
-              <img src="assets/images/user.jpg" alt="Nicole Kei">
+              <img src="assets/images/testimonials/user.jpg" alt="Nicole Kei">
             </div>
             <div class="inner-content">
               <h4 class="name">Nicole Kei</h4>
