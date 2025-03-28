@@ -36,6 +36,12 @@
     <link rel="stylesheet" href="assets/css/owl.css">
     <link rel="stylesheet" href="assets/css/style.css" />
 
+    <style>
+      .close-icon:hover {
+        color: red;
+      }
+    </style>
+
   </head>
 
 <body>

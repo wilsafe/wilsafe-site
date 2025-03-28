@@ -37,7 +37,17 @@
     <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
     <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
     
-    
+    <style>
+      .close-modal img {
+        filter: invert(18%) sepia(100%) saturate(7483%) hue-rotate(357deg) brightness(100%) contrast(105%);
+      }
+      .close-modal img:hover {
+        filter: invert(18%) sepia(100%) saturate(7483%) hue-rotate(357deg) brightness(100%) contrast(105%);
+      }
+      .close-modal img:hover {
+        filter: invert(18%) sepia(100%) saturate(7483%) hue-rotate(357deg) brightness(100%) contrast(105%);
+      }
+    </style>
 
   </head>
 
@@ -896,7 +906,7 @@
     </div>
     <div class="row">
       <div class="col-lg-12">
-        <div class="partners-logos">
+        <div class="partners-logos wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
           <img src="assets/images/partners&sponsors.png" alt="Partners and Sponsors" id="partners-logo">
         </div>
       </div>
