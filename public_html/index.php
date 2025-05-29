@@ -709,6 +709,15 @@
         <div class="owl-carousel owl-theme">
           <div class="testimonial-card">
             <div class="img-card">
+              <img src="assets/images/testimonials/user.jpg" alt="Edward Sean Maratas">
+            </div>
+            <div class="inner-content">
+              <h4 class="name">Edward Sean Maratas</h4>
+              <p>"Sir Wil, salamat sa turo niyo. Naging interesting ang BOSH SO2 training and interactive. Dahil na rin sa expertise niyo, thank you for sharing your knowledge. Dagdag learnings namin ito. Thank you Sir Wil!"</p>
+            </div>
+          </div>
+          <div class="testimonial-card">
+            <div class="img-card">
               <img src="assets/images/testimonials/ryan.jpg" alt="Ryan Del Monte">
             </div>
             <div class="inner-content">
