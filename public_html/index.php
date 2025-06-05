@@ -171,7 +171,7 @@
                   <div class="col-lg-12">
                     <h6>WilSafe Training Center</h6>
                     <h2>"<span>Education</span> is the key for <span>freedom,</span> and unlocked the <span>poverty</span> of community"</h2>
-                    <p>WilSafe Training Center is ready to served and offers our Safety Training Courses in affordable costs!!</p>
+                    <p>WilSafe Training Center is ready to serve and offer Safety Training Courses at an affordable cost!</p>
                   </div>
                   <div class="col-lg-12">
                     <div class="border-first-button scroll-to-section">
@@ -301,7 +301,7 @@
                   <h4>DOLE <em>OSHC TRAINING</em></h4>
                   <div class="line-dec"></div>
                 </div>
-                <p> WilSafe Training  Center recieved our Accreditation for OSH TRAINING ORGANIZATION.</p>
+                <p> WilSafe Training  Center received our Accreditation for OSH TRAINING ORGANIZATION.</p>
               </div>
             </div>
             <div class="col-lg-6">
@@ -330,7 +330,7 @@
                   <h4>DOLE <em>ONLINE OSHC TRAINING</em></h4>
                   <div class="line-dec"></div>
                 </div>
-                <p> WilSafe Training  Center recieved our Accreditation for ONLINE OSH TRAINING ORGANIZATION.</p>
+                <p> WilSafe Training  Center received our Accreditation for ONLINE OSH TRAINING ORGANIZATION.</p>
               </div>
             </div>
             
@@ -350,7 +350,7 @@
                   <h4>TESDA <em>Training Center</em></h4>
                   <div class="line-dec"></div>
                 </div>
-                <p>December 09, 2022  WilSafe Training  Center Corp. recieved our Accreditation for Shielded Metal Arc Welding (SMAW) NC I and Shielded Metal Arc Welding (SMAW) NC II. <a href="https://www.tesda.gov.ph/Tvi/Result?SearchCourse=welding&SearchIns=wilsafe&SearchLoc=">Click here</a></p>
+                <p>December 09, 2022  WilSafe Training  Center Corp. received our Accreditation for Shielded Metal Arc Welding (SMAW) NC I and Shielded Metal Arc Welding (SMAW) NC II. <a href="https://www.tesda.gov.ph/Tvi/Result?SearchCourse=welding&SearchIns=wilsafe&SearchLoc=">Click here</a></p>
               </div>
             </div>
             <div class="col-lg-6">
@@ -368,7 +368,7 @@
           <div class="row">
           <div class="col-lg-6">
               <div class="about-left-image  wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s">
-                <img src="assets/images/tesda2.jpg" alt="">
+                <img src="assets/images/tesda2.png" alt="">
               </div>
             </div>
             <div class="col-lg-6 align-self-center  wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
@@ -378,7 +378,7 @@
                   <h4>TESDA <em>Assessment Center</em></h4>
                   <div class="line-dec"></div>
                 </div>
-                <p>December 1, 2022  WilSafe Training  Center Corp. recieved our Assessment Center Accreditation for Shielded Metal Arc Welding (SMAW) NC I and Shielded Metal Arc Welding (SMAW) NC II. <a href="https://www.tesda.gov.ph/AssessmentCenters">Click here</a></p>
+                <p>Since December 1, 2022,  WilSafe Training  Center Corp. has received our Assessment Center Accreditation for Shielded Metal Arc Welding (SMAW) NC I and Shielded Metal Arc Welding (SMAW) NC II. <a href="https://www.tesda.gov.ph/AssessmentCenters">Click here</a></p>
               </div>
             </div>
           </div>
@@ -1055,7 +1055,7 @@
                       <div class="info-post">
                         <div class="icon">
                           <img src="assets/images/phone-icon.png" alt="">
-                          <a href="#">+63 926 077 8595<br>+63 949 161 9654<br>(049) 5403516</a>
+                          <a href="#">+63 926 077 8595<br>+63 995 673 0606<br>(049) 5403516</a>
                         </div>
                       </div>
                     </div>

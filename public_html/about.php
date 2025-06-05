@@ -193,7 +193,7 @@
                   <h4>DOLE <em>OSHC TRAINING</em></h4>
                   <div class="line-dec"></div>
                 </div>
-                <p> WilSafe Training  Center recieved our Accreditation for OSH TRAINING ORGANIZATION.</p>
+                <p> WilSafe Training  Center received our Accreditation for OSH TRAINING ORGANIZATION.</p>
               </div>
             </div>
             <div class="col-lg-6">
@@ -222,7 +222,7 @@
                   <h4>DOLE <em>ONLINE OSHC TRAINING</em></h4>
                   <div class="line-dec"></div>
                 </div>
-                <p> WilSafe Training  Center recieved our Accreditation for ONLINE OSH TRAINING ORGANIZATION.</p>
+                <p> WilSafe Training  Center received our Accreditation for ONLINE OSH TRAINING ORGANIZATION.</p>
               </div>
             </div>
             
@@ -243,12 +243,12 @@
                   <h4>TESDA <em>Assessment Center</em></h4>
                   <div class="line-dec"></div>
                 </div>
-                <p>December 1, 2022  WilSafe Training  Center Corp. recieved our Assessment Center Accreditation for Shielded Metal Arc Welding (SMAW) NC I and Shielded Metal Arc Welding (SMAW) NC II. <a href="https://www.tesda.gov.ph/AssessmentCenters">Click here</a></p>
+                <p>Since December 1, 2022,  WilSafe Training  Center Corp. received our Assessment Center Accreditation for Shielded Metal Arc Welding (SMAW) NC I and Shielded Metal Arc Welding (SMAW) NC II. <a href="https://www.tesda.gov.ph/AssessmentCenters">Click here</a></p>
               </div>
             </div>
             <div class="col-lg-6">
               <div class="about-left-image  wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s">
-                <img src="assets/images/tesda2.jpg" alt="">
+                <img src="assets/images/tesda2.png" alt="">
               </div>
             </div>
           </div>
@@ -516,7 +516,7 @@
                       <div class="info-post">
                         <div class="icon">
                           <img src="assets/images/phone-icon.png" alt="">
-                          <a href="#">(0926) 077 8595<br>(0949) 161 9654<br>(049) 5403516</a>
+                          <a href="#">(0926) 077 8595<br>(0995) 673 0606<br>(049) 5403516</a>
                         </div>
                       </div>
                     </div>

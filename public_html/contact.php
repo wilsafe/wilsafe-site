@@ -200,7 +200,7 @@
                       <div class="info-post">
                         <div class="icon">
                           <img src="assets/images/phone-icon.png" alt="">
-                          <a href="#">+63 926 077 8595<br>+63 949 161 9654<br>(049) 5403516</a>
+                          <a href="#">+63 926 077 8595<br>+63 995 673 0606<br>(049) 5403516</a>
                         </div>
                       </div>
                     </div>
