@@ -671,6 +671,8 @@
           </div>
       </div>
 
+<!-- Scroll up button -->
+<button onclick="topFunction()" class="scroll-btn" title="Go to top">↑</button>
 
 
   <!-- Scripts -->
@@ -681,6 +683,7 @@
   <script src="assets/js/imagesloaded.js"></script>
   <script src="assets/js/custom.js"></script>
   <script src="assets/js/tabs.js"></script>
+  <script src="assets/js/scroll-btn.js"></script>
 
   <script>
     function myFunction() {

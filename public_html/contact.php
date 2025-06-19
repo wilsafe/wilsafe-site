@@ -267,12 +267,8 @@
         </div>
   </footer>
 
-
-
-      
-
-
-
+<!-- Scroll up button -->
+<button onclick="topFunction()" class="scroll-btn" title="Go to top">↑</button>
 
   <!-- Scripts -->
   <script src="vendor/jquery/jquery.min.js"></script>
@@ -281,6 +277,7 @@
   <script src="assets/js/animation.js"></script>
   <script src="assets/js/imagesloaded.js"></script>
   <script src="assets/js/custom.js"></script>
+  <script src="assets/js/scroll-btn.js"></script>
 
   <script>
     function myFunction() {

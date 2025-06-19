@@ -54,28 +54,23 @@
   </head>
 
 <body>
-<div class="popup" id="popupContact">
-
-<div id="contactForm">
-<button id="close">&times;</button>
-          <h1>Contact us</h1>
-          <small>Get in touch with us now</small>
-            <?php echo $alert; ?>
-          <form action="" method="post">
-            <input type="name" name="name" id="name" placeholder="Name" autocomplete="on" required>
-            <input type="text" name="email" id="email" pattern="[^ @]*@[^ @]*" placeholder="Your Email" required="">
-            <input type="subject" name="number" id="subject" placeholder="Number" autocomplete="on">
-            <textarea name="message" type="text" id="message" placeholder="Message" required=""></textarea>
-            <input class="formBtn" type="submit" id="form-submit" name="submit" value="Send" />
-            
-            <input class="formBtn" type="reset" value="Clear All"/>
-          </form>
+  <div class="popup" id="popupContact">
+    <div id="contactForm">
+      <button id="close">&times;</button>
+              <h1>Contact us</h1>
+              <small>Get in touch with us now</small>
+                <?php echo $alert; ?>
+              <form action="" method="post">
+                <input type="name" name="name" id="name" placeholder="Name" autocomplete="on" required>
+                <input type="text" name="email" id="email" pattern="[^ @]*@[^ @]*" placeholder="Your Email" required="">
+                <input type="subject" name="number" id="subject" placeholder="Number" autocomplete="on">
+                <textarea name="message" type="text" id="message" placeholder="Message" required=""></textarea>
+                <input class="formBtn" type="submit" id="form-submit" name="submit" value="Send" />
+                
+                <input class="formBtn" type="reset" value="Clear All"/>
+              </form>
       </div>
-        
-      
-   
     </div>
- 
 
   <!-- Pre-header Starts -->
   <div class="pre-header">
@@ -568,7 +563,7 @@
               <a class="portfolio-link" href="courses/bosh.html">
                 <div class="portfolio-item">
                 <div class="thumb">
-                  <img src="assets/images/portfolio/1.jpg" alt="">
+                  <img src="assets/images/portfolio/bosh-so1.png" alt="">
                 </div>
                 <div class="down-content">
                   <h4>Basic Occupational Safety and Health<br> (SO1)</h4>
@@ -581,7 +576,7 @@
               <a class="portfolio-link" href="courses/bosh2.html">
                 <div class="portfolio-item">
                 <div class="thumb">
-                  <img src="assets/images/portfolio/2.jpg" alt="">
+                  <img src="assets/images/portfolio/bosh-so2.png" alt="">
                 </div>
                 <div class="down-content">
                   <h4>Basic Occupational Safety and Health<br> (SO2)</h4>
@@ -594,7 +589,7 @@
               <a class="portfolio-link" href="courses/cosh.html">
                 <div class="portfolio-item">
                 <div class="thumb">
-                  <img src="assets/images/portfolio/3.jpg" alt="">
+                  <img src="assets/images/portfolio/cosh-so2.png" alt="">
                 </div>
                 <div class="down-content">
                   <h4>Construction Occupational Safety and Health</h4>
@@ -607,7 +602,7 @@
               <a class="portfolio-link" href="courses/lcm.html">
                 <div class="portfolio-item">
                 <div class="thumb">
-                  <img src="assets/images/portfolio/4.jpg" alt="">
+                  <img src="assets/images/portfolio/lcm.png" alt="">
                 </div>
                 <div class="down-content">
                   <h4>Loss Control Management + hirac - Advanced Course</h4>
@@ -620,7 +615,7 @@
               <a class="portfolio-link" href="courses/tot.html">
                 <div class="portfolio-item">
                 <div class="thumb">
-                  <img src="assets/images/portfolio/5.jpg" alt="">
+                  <img src="assets/images/portfolio/tot.png" alt="">
                 </div>
                 <div class="down-content">
                   <h4>Training of Trainers<br>(TOT)</h4><br>
@@ -702,6 +697,7 @@
       <div class="col-lg-12">
         <div class="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
           <h6>Testimonials</h6>
+          <img class="stars" src="./assets/images/testimonials.png" alt="5 stars" srcset="">
           <h4>What Our Students <em>Say</em></h4>
         </div>
       </div>
@@ -1007,16 +1003,6 @@
     </div>
   </div>
 
-  <!-- old footer -->
-  <!-- <footer>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12">
-          <p>© 2022 WilSafe Training Center.</p>
-        </div>
-      </div>
-    </div>
-  </footer> -->
 
   <footer>
         <div class="footer-content">
@@ -1126,6 +1112,9 @@
           </div>
       </div>
 
+<!-- Scroll up button -->
+<button onclick="topFunction()" class="scroll-btn" title="Go to top">↑</button>
+
 
 <!--Script-->
 <script type="text/javascript">
@@ -1157,6 +1146,7 @@ document.querySelector("#close").addEventListener("click", function(){
   <script src="assets/js/imagesloaded.js"></script>
   <script src="assets/js/custom.js"></script>
   <script src="assets/js/tabs.js"></script>
+  <script src="assets/js/scroll-btn.js"></script>
 
   <script>
     function myFunction() {
