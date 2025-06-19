@@ -572,3 +572,9 @@ p {
 
 .scroll-btn:hover {
   background-color: green;
+}
+
+.cto {
+  display: flex;
+  gap: 1rem;
+}

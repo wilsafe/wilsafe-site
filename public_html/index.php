@@ -170,10 +170,13 @@
                     <h2>"<span>Education</span> is the key for <span>freedom,</span> and unlocked the <span>poverty</span> of community"</h2>
                     <p>WilSafe Training Center is ready to serve and offer Safety Training Courses at an affordable cost!</p>
                   </div>
-                  <div class="col-lg-12">
+                  <div class="col-lg-12 cto">
                     <div class="border-first-button scroll-to-section">
                       <a data-bs-toggle="modal" href="#cont">Enroll Now</a>
                     </div>
+                    <!-- <div class="border-first-button">
+                      <a href="https://m.me/WilSafe2022" target="_blank">Inquire Now</a>
+                    </div> -->
                   </div>
                 </div>
               </div>
@@ -947,6 +950,14 @@
               <div class="col-lg-7">
                 <div class="fill-form">
                   <div class="row">
+                    <div class="col-lg-4">
+                      <div class="info-post">
+                        <div class="icon">
+                          <img src="assets/images/messenger.png" alt="Messenger logo">
+                          <a href="https://m.me/WilSafe2022" target="_blank">WilSafe</a>
+                        </div>
+                      </div>
+                    </div>
                     <div class="col-lg-4">
                       <div class="info-post">
                         <div class="icon">
