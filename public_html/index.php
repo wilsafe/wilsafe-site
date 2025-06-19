@@ -25,6 +25,7 @@
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
 
     <!-- Additional CSS Files -->
@@ -33,6 +34,7 @@
     <link rel="stylesheet" href="assets/css/animated.css">
     <link rel="stylesheet" href="assets/css/owl.css">
     <link rel="stylesheet" href="assets/css/style.css" />
+    <link rel="stylesheet" href="assets/css/footer.css" />
     <!-- Owl Carousel CSS -->
     <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
     <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
@@ -961,7 +963,7 @@
                       <div class="info-post">
                         <div class="icon">
                           <img src="assets/images/phone-icon.png" alt="">
-                          <a href="#">+63 926 077 8595<br>+63 949 161 9654<br>(049) 5403516</a>
+                          <a href="#">+63 926 077 8595<br>+63 995 673 0606<br>(049) 5403516</a>
                         </div>
                       </div>
                     </div>
@@ -1005,7 +1007,8 @@
     </div>
   </div>
 
-  <footer>
+  <!-- old footer -->
+  <!-- <footer>
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
@@ -1013,6 +1016,28 @@
         </div>
       </div>
     </div>
+  </footer> -->
+
+  <footer>
+        <div class="footer-content">
+            <img src="./assets/images/footer-logo.png" alt="wilsafe logo" srcset="">
+            <h3>WilSafe Training Center Corp.</h3>
+            <p>WilSafe Training Center is the provider of Occupational, health, safety, quality, practical, applied and online training programmes which equip you with the necessary skills and tools to develop yourself or your business.</p>
+            <ul class="socials">
+                <li><a href="https://www.facebook.com/WilSafe2022"><i class="fa fa-facebook"></i></a></li>
+            </ul>
+        </div>
+        <div class="footer-bottom">
+            <p>copyright &copy; <a href="https://www.facebook.com/WilSafe2022">2022 WilSafe Training Center</a>  </p>
+                    <div class="footer-menu">
+                      <ul class="f-menu">
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="about.php">About</a></li>
+                        <li><a href="our-team.php">Our Team</a></li>
+                        <li><a href="contact.php">Contact</a></li>
+                      </ul>
+                    </div>
+        </div>
   </footer>
 
 
