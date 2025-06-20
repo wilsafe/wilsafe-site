@@ -59,6 +59,17 @@
       <button id="close">&times;</button>
               <h1>Contact us</h1>
               <small>Get in touch with us now</small>
+
+              <!-- message on facebook -->
+              <div class="border-first-button">
+                      <a href="https://m.me/WilSafe2022" target="_blank" class="btn messenger-btn">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-messenger" viewBox="0 0 16 16">
+                        <path d="M0 7.76C0 3.301 3.493 0 8 0s8 3.301 8 7.76-3.493 7.76-8 7.76c-.81 0-1.586-.107-2.316-.307a.64.64 0 0 0-.427.03l-1.588.702a.64.64 0 0 1-.898-.566l-.044-1.423a.64.64 0 0 0-.215-.456C.956 12.108 0 10.092 0 7.76m5.546-1.459-2.35 3.728c-.225.358.214.761.551.506l2.525-1.916a.48.48 0 0 1 .578-.002l1.869 1.402a1.2 1.2 0 0 0 1.735-.32l2.35-3.728c.226-.358-.214-.761-.551-.506L9.728 7.381a.48.48 0 0 1-.578.002L7.281 5.98a1.2 1.2 0 0 0-1.735.32z"/>
+                        </svg> 
+                        Message us on Facebook</a>
+                    </div>
+
+                    <small>Or via Email</small>
                 <?php echo $alert; ?>
               <form action="" method="post">
                 <input type="name" name="name" id="name" placeholder="Name" autocomplete="on" required>
@@ -171,11 +182,19 @@
                     <p>WilSafe Training Center is ready to serve and offer Safety Training Courses at an affordable cost!</p>
                   </div>
                   <div class="col-lg-12 cto">
-                    <div class="border-first-button scroll-to-section">
+                    <!-- <div class="border-first-button scroll-to-section">
+                      <a href="https://m.me/WilSafe2022" target="_blank" class="active-btn">Enroll Now</a>
+                      <a href="https://forms.gle/GYawG7MCTrM1oim47" target="_blank" class="active-btn">Enroll Now</a>
+                    </div> -->
+                    <div class="border-first-button">
                       <a data-bs-toggle="modal" href="#cont">Enroll Now</a>
                     </div>
                     <!-- <div class="border-first-button">
-                      <a href="https://m.me/WilSafe2022" target="_blank">Inquire Now</a>
+                      <a href="https://m.me/WilSafe2022" target="_blank" class="btn messenger-btn">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-messenger" viewBox="0 0 16 16">
+                        <path d="M0 7.76C0 3.301 3.493 0 8 0s8 3.301 8 7.76-3.493 7.76-8 7.76c-.81 0-1.586-.107-2.316-.307a.64.64 0 0 0-.427.03l-1.588.702a.64.64 0 0 1-.898-.566l-.044-1.423a.64.64 0 0 0-.215-.456C.956 12.108 0 10.092 0 7.76m5.546-1.459-2.35 3.728c-.225.358.214.761.551.506l2.525-1.916a.48.48 0 0 1 .578-.002l1.869 1.402a1.2 1.2 0 0 0 1.735-.32l2.35-3.728c.226-.358-.214-.761-.551-.506L9.728 7.381a.48.48 0 0 1-.578.002L7.281 5.98a1.2 1.2 0 0 0-1.735.32z"/>
+                        </svg> 
+                        Message us on Facebook</a>
                     </div> -->
                   </div>
                 </div>
@@ -1065,6 +1084,15 @@
               <div class="col-lg-7">
                 <div class="fill-form">
                   <div class="row">
+                    <div class="col-lg-4">
+                    <div class="border-first-button">
+                      <a href="https://m.me/WilSafe2022" target="_blank" class="btn messenger-btn">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-messenger" viewBox="0 0 16 16">
+                        <path d="M0 7.76C0 3.301 3.493 0 8 0s8 3.301 8 7.76-3.493 7.76-8 7.76c-.81 0-1.586-.107-2.316-.307a.64.64 0 0 0-.427.03l-1.588.702a.64.64 0 0 1-.898-.566l-.044-1.423a.64.64 0 0 0-.215-.456C.956 12.108 0 10.092 0 7.76m5.546-1.459-2.35 3.728c-.225.358.214.761.551.506l2.525-1.916a.48.48 0 0 1 .578-.002l1.869 1.402a1.2 1.2 0 0 0 1.735-.32l2.35-3.728c.226-.358-.214-.761-.551-.506L9.728 7.381a.48.48 0 0 1-.578.002L7.281 5.98a1.2 1.2 0 0 0-1.735.32z"/>
+                        </svg> 
+                        Message us on Facebook</a>
+                    </div>
+                    </div>
                     <div class="col-lg-4">
                       <div class="info-post">
                         <div class="icon">

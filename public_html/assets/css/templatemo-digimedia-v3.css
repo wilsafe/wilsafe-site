@@ -221,6 +221,25 @@ body {
   transition: all .5s;
 }
 
+.border-first-button .active-btn {
+  color: #fff !important;
+  background-color: #32CD32 !important;
+}
+
+.border-first-button .active-btn:hover {
+  background-color: #259625 !important;
+}
+
+.border-first-button .messenger-btn {
+  color: #fff !important;
+  background-color: #0d6efd !important;
+  border: none !important;
+}
+
+.border-first-button .messenger-btn:hover {
+  background-color: #0a51bb !important;
+}
+
 .border-first-button a:hover {
   background-color: #32CD32;
   color: #fff !important;
