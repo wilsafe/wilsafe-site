@@ -2625,3 +2625,7 @@ responsive
 .portfolio-modal .close-modal:hover {
   opacity: 0.3;
 }
+
+.faqs {
+  padding-top: 130px;
+}

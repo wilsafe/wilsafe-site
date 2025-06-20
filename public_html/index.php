@@ -943,6 +943,68 @@
   </div>
 </div>
 
+<!-- FAQs section -->
+<div class="container faqs">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+          <div class="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
+            <h6>FAQs</h6>
+            <h4>Frequently Asked <em>Questions</em></h4>
+          </div>
+            <div class="accordion wow fadeIn" id="faqAccordion">
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq1" aria-expanded="true" aria-controls="faq1">
+                            1. How to enroll for a course?
+                            </button>
+                    </h2>
+                    <div id="faq1" class="accordion-collapse collapse show" data-bs-parent="#faqAccordion">
+                        <div class="accordion-body">
+                            Kindly fill out the enrollment form indicating your contact details and the course you like to enroll for and we will send you the steps for the enrollment procedure. You can receive the enrollment form by contacting us or by visiting the courses we offer here in our website. You reach us on our contact page for more info.
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2" aria-expanded="false" aria-controls="faq2">
+                            2. Is there an age limit for OSH Training?
+                            </button>
+                    </h2>
+                    <div id="faq2" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                        <div class="accordion-body">
+                            There is no age limit for OSH training.
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq3" aria-expanded="false" aria-controls="faq3">
+                            3. How do we receive our certificates after the training?
+                            </button>
+                    </h2>
+                    <div id="faq3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                        <div class="accordion-body">
+                            We will ship your certificate as soon as the training ends. You will immediately receive the soft copy of your certificate and then we will process the shipping of the hard copy.
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq4" aria-expanded="false" aria-controls="faq3">
+                            4. Do you offer onsite training?
+                            </button>
+                    </h2>
+                    <div id="faq4" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                        <div class="accordion-body">
+                            Yes, If you wish your training to be done at your company premises, we can arrange an onsite training for you.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
   <div id="contact" class="contact-us section">
     <div class="container">
       <div class="row">
@@ -1253,7 +1315,6 @@ moreText.style.display = "inline";
     });
   });
 </script>
-
 
 </body>
 </html>
