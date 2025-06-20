@@ -226,7 +226,7 @@
         <!-- Row -->
         <div class="row">
           <div class="col-md-12">
-            <img src="./assets/images/team/ms_renellee.png" alt="wrapkit" class="img-fluid rounded-circle" />
+            <img src="./assets/images/team/ms_renellee.jpg" alt="wrapkit" class="img-fluid rounded-circle" />
           </div>
           <div class="col-md-12 text-center">
             <div class="pt-2">
@@ -251,7 +251,7 @@
         <!-- Row -->
         <div class="row">
           <div class="col-md-12">
-            <img src="./assets/images/team/mr_jared.png" alt="wrapkit" class="img-fluid rounded-circle" />
+            <img src="./assets/images/team/mr_jared.jpg" alt="wrapkit" class="img-fluid rounded-circle" />
           </div>
           <div class="col-md-12 text-center">
             <div class="pt-2">
