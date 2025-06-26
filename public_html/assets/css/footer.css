@@ -42,12 +42,11 @@ footer{
 }
 .socials a{
     text-decoration: none;
-    color: #fff;
-    border: 1.1px solid white;
+    color: #000;
+    border: 1.1px solid #000;
     padding: 5px;
 
     border-radius: 50%;
-
 }
 .socials a i{
     font-size: 1.1rem;
@@ -62,7 +61,8 @@ footer{
 }
 
 .footer-bottom{
-    background: #a1a1a1;
+    background: #006F2F;
+    background: linear-gradient(90deg, rgba(0, 111, 47, 1) 50%, rgba(13, 184, 85, 1) 100%);
     width: 100%;
     padding: 1rem;
     text-align: center;

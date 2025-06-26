@@ -89,15 +89,15 @@
       <div class="row">
         <div class="col-lg-8 col-sm-8 col-7">
           <ul class="info">
-            <li><a href="#"><i class="fa fa-envelope"></i>wilsafe2022@gmail.com</a></li>
-            <li><a href="#"><i class="fa fa-phone"></i>+63 926 077 8595</a></li>
+            <li><a href="mailto:wilsafe2022@gmail.com"><i class="fa fa-envelope"></i>wilsafe2022@gmail.com</a></li>
+            <li><a href="tel:+63 926 077 8595"><i class="fa fa-phone"></i>+63 926 077 8595</a></li>
           </ul>
         </div>
         <div class="col-lg-4 col-sm-4 col-5">
           <ul class="social-media">
-            <li><a href="https://www.facebook.com/WilSafe2022"><i class="fa fa-facebook"></i></a></li>
-            <li><a href="https://instagram.com/wilsafe2022?igshid=YmMyMTA2M2Y="><i class="fa fa-instagram"></i></a></li>
-            <li><a href="https://wa.me/+639171062757"><i class="fa fa-whatsapp"></i></a></li>
+            <li><a href="https://www.facebook.com/WilSafe2022" target="_blank"><i class="fa fa-facebook"></i></a></li>
+            <li><a href="https://instagram.com/wilsafe2022?igshid=YmMyMTA2M2Y=" target="_blank"><i class="fa fa-instagram"></i></a></li>
+            <li><a href="https://wa.me/+639171062757"><i class="fa fa-whatsapp" target="_blank"></i></a></li>
            
           </ul>
         </div>
@@ -123,10 +123,10 @@
                           <a href="javascript:void(0)" >Home <i class="fa fa-sort-down"></i></a>
                           <ul class="sub-menu">
                               <li><a href="#top">Home</a></li>
-                              <li><a href="about.php">About</a></li>
+                              <li><a href="about.php">About Us</a></li>
                               <li><a href="gallery/gallery.html">Gallery</a></li>
                               <li><a href="our-team.php">Our Team</a></li>
-                              <li><a href="contact.php">Contact</a></li>
+                              <li><a href="contact.php">Contact Us</a></li>
                           </ul>
               </li>
               <li class="has-sub">
@@ -155,7 +155,9 @@
                           </ul>
               </li>
              
-              <li class="scroll-to-section"><div class="border-first-button"><a data-bs-toggle="modal" href="#cont">Enroll Now</a></div></li> 
+              <li><a href="#faqs">FAQs</a></li> 
+              <li><div><a data-bs-toggle="modal" href="#cont">Contact Us</a></div></li> 
+              <li><div class="border-first-button"><a href="https://forms.gle/GYawG7MCTrM1oim47" target="_blank" class="active-btn">Enroll Now</a></div></li> 
             </ul>        
             <a class='menu-trigger'>
                 <span>Menu</span>
@@ -179,23 +181,23 @@
                   <div class="col-lg-12">
                     <h6>WilSafe Training Center</h6>
                     <h2>"<span>Education</span> is the key for <span>freedom,</span> and unlocked the <span>poverty</span> of community"</h2>
-                    <p>WilSafe Training Center is ready to serve and offer Safety Training Courses at an affordable cost!</p>
+                    <p>WilSafe Training Center is ready to serve and offer Safety Training Courses at an affordable cost.</p>
                   </div>
                   <div class="col-lg-12 cto">
-                    <!-- <div class="border-first-button scroll-to-section">
-                      <a href="https://m.me/WilSafe2022" target="_blank" class="active-btn">Enroll Now</a>
+                    <div class="border-first-button scroll-to-section">
+                      <!-- <a href="https://m.me/WilSafe2022" target="_blank" class="active-btn">Enroll Now</a> -->
                       <a href="https://forms.gle/GYawG7MCTrM1oim47" target="_blank" class="active-btn">Enroll Now</a>
-                    </div> -->
-                    <div class="border-first-button">
-                      <a data-bs-toggle="modal" href="#cont">Enroll Now</a>
                     </div>
-                    <!-- <div class="border-first-button">
+                    <div class="border-first-button">
+                      <a data-bs-toggle="modal" href="#cont">Contact Us</a>
+                    </div>
+                    <div class="border-first-button">
                       <a href="https://m.me/WilSafe2022" target="_blank" class="btn messenger-btn">
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-messenger" viewBox="0 0 16 16">
                         <path d="M0 7.76C0 3.301 3.493 0 8 0s8 3.301 8 7.76-3.493 7.76-8 7.76c-.81 0-1.586-.107-2.316-.307a.64.64 0 0 0-.427.03l-1.588.702a.64.64 0 0 1-.898-.566l-.044-1.423a.64.64 0 0 0-.215-.456C.956 12.108 0 10.092 0 7.76m5.546-1.459-2.35 3.728c-.225.358.214.761.551.506l2.525-1.916a.48.48 0 0 1 .578-.002l1.869 1.402a1.2 1.2 0 0 0 1.735-.32l2.35-3.728c.226-.358-.214-.761-.551-.506L9.728 7.381a.48.48 0 0 1-.578.002L7.281 5.98a1.2 1.2 0 0 0-1.735.32z"/>
                         </svg> 
-                        Message us on Facebook</a>
-                    </div> -->
+                        Inquire Now</a>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -627,7 +629,7 @@
                   <img src="assets/images/portfolio/lcm.png" alt="">
                 </div>
                 <div class="down-content">
-                  <h4>Loss Control Management + hirac - Advanced Course</h4>
+                  <h4>Loss Control Management + HIRAC - Advanced Course</h4>
                   <span>ONLINE</span>
                 </div>
               </div>
@@ -948,41 +950,53 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
           <div class="section-heading wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
-            <h6>FAQs</h6>
+            <h6 id="faqs">FAQs</h6>
             <h4>Frequently Asked <em>Questions</em></h4>
           </div>
             <div class="accordion wow fadeIn" id="faqAccordion">
                 <div class="accordion-item">
                     <h2 class="accordion-header">
                         <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq1" aria-expanded="true" aria-controls="faq1">
-                            1. How to enroll for a course?
+                            1. How to enroll in OSH training?
                             </button>
                     </h2>
                     <div id="faq1" class="accordion-collapse collapse show" data-bs-parent="#faqAccordion">
                         <div class="accordion-body">
-                            Kindly fill out the enrollment form indicating your contact details and the course you like to enroll for and we will send you the steps for the enrollment procedure. You can receive the enrollment form by contacting us or by visiting the courses we offer here in our website. You reach us on our contact page for more info.
+                            Kindly fill out the enrollment form indicating your contact details and the course you like to enroll for and we will contact you regarding the enrollment procedure. You can receive the enrollment form by contacting us or by visiting our website. You reach us on our contact page for more info.
                         </div>
                     </div>
                 </div>
                 <div class="accordion-item">
                     <h2 class="accordion-header">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2" aria-expanded="false" aria-controls="faq2">
-                            2. Is there an age limit for OSH Training?
+                            2. How to enroll in SMAW NC I and NC II?
                             </button>
                     </h2>
                     <div id="faq2" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                         <div class="accordion-body">
-                            There is no age limit for OSH training.
+                            To enroll in SMAW NC I and NC II, kindly visit our office by bringing the requirements and filling out the registration form.
                         </div>
                     </div>
                 </div>
                 <div class="accordion-item">
                     <h2 class="accordion-header">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq3" aria-expanded="false" aria-controls="faq3">
-                            3. How do we receive our certificates after the training?
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq3" aria-expanded="false" aria-controls="faq2">
+                            3. Is there an age requirement or limit for OSH and TESDA SMAW Training?
                             </button>
                     </h2>
                     <div id="faq3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                        <div class="accordion-body">
+                            There is no age limit for OSH training. Similarly in SMAW training, there is no age limit however, the student must be at least 18 years old or older.
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq4" aria-expanded="false" aria-controls="faq3">
+                            4. How do we receive our OSH certificates after the training?
+                            </button>
+                    </h2>
+                    <div id="faq4" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                         <div class="accordion-body">
                             We will ship your certificate as soon as the training ends. You will immediately receive the soft copy of your certificate and then we will process the shipping of the hard copy.
                         </div>
@@ -990,13 +1004,37 @@
                 </div>
                 <div class="accordion-item">
                     <h2 class="accordion-header">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq4" aria-expanded="false" aria-controls="faq3">
-                            4. Do you offer onsite training?
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq5" aria-expanded="false" aria-controls="faq3">
+                            5. Do you offer onsite training?
                             </button>
                     </h2>
-                    <div id="faq4" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                    <div id="faq5" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                         <div class="accordion-body">
                             Yes, If you wish your training to be done at your company premises, we can arrange an onsite training for you.
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq6" aria-expanded="false" aria-controls="faq3">
+                            6. What is your payment terms and mode of payment?
+                            </button>
+                    </h2>
+                    <div id="faq6" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                        <div class="accordion-body">
+                            A payment must be made upon filling out our enrollment form. We accept initial 50% down payment and the other 50% must be settled before the start of training. We accept payment thru GCash and PSBank.
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq7" aria-expanded="false" aria-controls="faq3">
+                            7. Is the SMAW NC I and NC II free training?
+                            </button>
+                    </h2>
+                    <div id="faq7" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                        <div class="accordion-body">
+                            Good new! Yes, it is a free training scholarship (including allowance) granted from TESDA. To those who are interested in a personalized schedule and setup of training, we also offer regular student training.
                         </div>
                     </div>
                 </div>
