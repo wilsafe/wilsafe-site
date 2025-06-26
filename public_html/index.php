@@ -1034,7 +1034,7 @@
                     </h2>
                     <div id="faq7" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                         <div class="accordion-body">
-                            Good new! Yes, it is a free training scholarship (including allowance) granted from TESDA. To those who are interested in a personalized schedule and setup of training, we also offer regular student training.
+                            Good news! Yes, it is a free training scholarship (including allowance) granted from TESDA. To those who are interested in a personalized schedule and setup of training, we also offer regular student training.
                         </div>
                     </div>
                 </div>
