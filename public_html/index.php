@@ -408,8 +408,9 @@
     </div>
   </div>
 
-
-
+  <div class="parallax">
+    <span>A training institution dedicated to equipping individuals and organizations in the Philippines.</span>
+  </div>
 
   <div id="services" class="services section">
     <div class="container">

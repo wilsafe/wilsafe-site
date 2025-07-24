@@ -613,3 +613,72 @@ p {
 .accordion-body {
   padding: 0 0 20px 0;
 }
+
+.parallax {
+  /* The image used */
+  background-image: url("../images/parallax-bg.png");
+
+  /* Set a specific height */
+  min-height: 500px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0 26rem;
+  margin: 8rem 0;
+  text-align: center;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.parallax span {
+  color: #fff;
+  font-size: 3rem;
+}
+
+@media screen and (max-width: 1370px) and (min-width: 768px) {
+  .parallax {
+    /* Set a specific height */
+    min-height: 500px; 
+
+    margin: 4rem 0;
+    padding: 0 6rem;
+  }
+  
+  .parallax span {
+    color: #fff;
+    font-size: 2.6rem;
+  }
+}
+@media screen and (max-width: 767px) {
+  .parallax {
+    /* Set a specific height */
+    min-height: 500px; 
+
+    margin: 4rem 0;
+    padding: 0 6rem;
+  }
+  
+  .parallax span {
+    color: #fff;
+    font-size: 2rem;
+  }
+}
+@media screen and (max-width: 479px) {
+  .parallax {
+    /* Set a specific height */
+    min-height: 500px; 
+
+    margin: 4rem 0;
+    padding: 0 6rem;
+  }
+  
+  .parallax span {
+    color: #fff;
+    font-size: 1.8rem;
+  }
+}
