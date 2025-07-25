@@ -179,6 +179,22 @@
               <div class="left-content show-up header-text wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay="0.3s">
                 <div class="row">
                   <div class="col-lg-12">
+
+                  <div class="text-container-wrapper">
+                  <div class="text-container">
+                    <h1>
+                      <span class="prefix">Protect your</span>
+                      <div class="message">
+                        <div class="word1">Team</div>
+                        <div class="word2">Business</div>
+                        <div class="word3">Organization</div>
+                        <div class="word4">Workplace</div>
+                      </div>
+                    </h1>
+                  </div>
+                  </div>
+                  
+                  
                     <h6>WilSafe Training Center</h6>
                     <h2>"<span>Education</span> is the key for <span>freedom,</span> and unlocked the <span>poverty</span> of community"</h2>
                     <p>WilSafe Training Center is ready to serve and offer Safety Training Courses at an affordable cost.</p>
@@ -574,7 +590,7 @@
         <div class="col-lg-9">
           <div class="section-heading wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay="0.3s" >
             <h6>DOLE OSHC Training</h6>
-            <h4>DOLE Accredited N0. 1030- 020823- 0161</h4>
+            <h4>DOLE Accredited NO. 1030- 020823- 0161</h4>
             <div class="line-dec"></div>
           </div>
         </div>
@@ -723,7 +739,7 @@
         <div class="section-heading wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay="0.3s">
           <h6>Testimonials</h6>
           <img class="stars" src="./assets/images/testimonials.png" alt="5 stars" srcset="">
-          <h4>What Our Students <em>Say</em></h4>
+          <h4>What Our Students Say</h4>
         </div>
       </div>
     </div>

@@ -359,7 +359,16 @@ p {
 /* Testimonials Section Styles */
 .testimonials {
   padding: 60px 0;
-  background-color: #f9f9f9;
+  background-color: #1e830a;
+  margin-top: 4rem;
+}
+
+.testimonials h4 {
+  color: #fff;
+}
+
+.testimonials h6 {
+  color: #fff;
 }
 
 .testimonials .section-heading {
@@ -671,5 +680,124 @@ p {
   .parallax span {
     color: #fff;
     font-size: 1.8rem;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.text-container {
+  position: relative;
+}
+
+.text-container h1 {
+  color: #303030;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.5;
+  white-space: nowrap;
+  overflow: hidden;
+  position: relative;
+}
+
+.text-container h1 span.prefix {
+  font-size: 2rem;
+  position: relative;
+  transition: color 0.3s ease;
+}
+
+.message {
+  /* background: linear-gradient(45deg, #a8d8ea, #aa96da); */
+  color: #32CD32;
+  display: block;
+  font-weight: 600;
+  overflow: hidden;
+  position: absolute;
+  /* padding: 0.2rem 1rem; */
+  left: 200px;
+  animation: openclose 8s ease-in-out infinite;
+  height: 4.5rem;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.word1, .word2, .word3, .word4 {
+  position: absolute;
+  width: 100%;
+  opacity: 0;
+  height: 4.5rem;
+}
+
+.message .word1 { animation: word-animation 8s infinite; }
+.message .word2 { animation: word-animation 8s infinite 2s; }
+.message .word3 { animation: word-animation 8s infinite 4s; }
+.message .word4 { animation: word-animation 8s infinite 6s; }
+
+@keyframes word-animation {
+  0%, 5% { opacity: 0; }
+  10%, 22% { opacity: 1; }
+  27%, 100% { opacity: 0; }
+}
+
+@keyframes openclose {
+  0% { top: 0; width: 0; }
+  5% { width: 0; }
+  10% { width: 285px; }
+  20% { top: 0; width: 285px; }
+  25% { top: 0; width: 0; }
+  30% { top: 0; width: 0; }
+  35% { top: 0; width: 285px; }
+  45% { top: 0; width: 285px; }
+  50% { top: 0; width: 0; }
+  55% { top: 0; width: 0; }
+  60% { top: 0; width: 285px; }
+  70% { top: 0; width: 285px; }
+  75% { top: 0; width: 0; }
+  80% { top: 0; width: 285px; }
+  90% { top: 0; width: 285px; }
+  95% { top: 0; width: 0; }
+  100% { top: 0; width: 0; }
+}
+
+@media (max-width: 768px) {
+  .text-container h1 {
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 992px) {
+  .prefix {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .message {
+    position: initial;
+    text-align: center;
+  }
+  .text-container h1 {
+    text-align: left;
   }
 }
