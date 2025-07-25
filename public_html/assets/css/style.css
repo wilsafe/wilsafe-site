@@ -664,9 +664,6 @@ p {
 }
 @media screen and (max-width: 479px) {
   .parallax {
-    /* The image used */
-    background-image: url("../images/parallax-bg-mobile.png");
-
     margin: 4rem 0;
     padding: 0 6rem;
   }
