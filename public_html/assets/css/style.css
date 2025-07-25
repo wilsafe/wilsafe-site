@@ -642,9 +642,6 @@ p {
 
 @media screen and (max-width: 1370px) and (min-width: 768px) {
   .parallax {
-    /* Set a specific height */
-    min-height: 500px; 
-
     margin: 4rem 0;
     padding: 0 6rem;
   }
@@ -656,9 +653,6 @@ p {
 }
 @media screen and (max-width: 767px) {
   .parallax {
-    /* Set a specific height */
-    min-height: 500px; 
-
     margin: 4rem 0;
     padding: 0 6rem;
   }
@@ -671,9 +665,9 @@ p {
 @media screen and (max-width: 479px) {
   .parallax {
     /* The image used */
-    background-image: url("../images/parallax-bg-mobile.png");
+    /* background-image: url("../images/parallax-bg-mobile.png"); */
     /* Set a specific height */
-    min-height: 500px; 
+    background-size: 100% 100%;
 
     margin: 4rem 0;
     padding: 0 6rem;
