@@ -67,7 +67,7 @@
   <!-- Pre-header End -->
 
   <!-- ***** Header Area Start ***** -->
-  <header class="header-area header-sticky wow slideInDown" data-wow-duration="0.75s" data-wow-delay="0s">
+  <header class="header-area header-sticky wow slideInDown" data-wow-duration="0.5s" data-wow-delay="0s">
     <div class="container">
       <div class="row">
         <div class="col-12">
@@ -130,7 +130,7 @@
   <!-- ***** Header Area End ***** -->
   
   <!-- ##### Breadcrumb Area Start ##### -->
-  <div class="wow fadeIn" id="top" data-wow-duration="1s" data-wow-delay="0.5s">
+  <div class="wow fadeIn" id="top" data-wow-duration="0.5s" data-wow-delay="0.3s">
   <div class="breadcrumb-area">
   <div class="left-content show-up header-text wow fadeInLeft" >
     <!-- Top Breadcrumb Area -->
@@ -162,11 +162,11 @@
         <div class="col-lg-12">
           <div class="row">
             <div class="col-lg-6">
-              <div class="about-left-image  wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s">
+              <div class="about-left-image  wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay="0.3s">
                 <img src="assets/images/about.JPG" alt="">
               </div>
             </div>
-            <div class="col-lg-6 align-self-center  wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
+            <div class="col-lg-6 align-self-center  wow fadeInRight" data-wow-duration="0.5s" data-wow-delay="0.3s">
               <div class="about-right-content">
                 <div class="section-heading">
                   <h6>About Us</h6>
@@ -189,7 +189,7 @@
         <div class="col-lg-12">
           <div class="row">
             
-            <div class="col-lg-6 align-self-center  wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
+            <div class="col-lg-6 align-self-center  wow fadeInRight" data-wow-duration="0.5s" data-wow-delay="0.3s">
               <div class="about-right-content">
                 <div class="section-heading">
                   <h6>Accreditation</h6>
@@ -200,7 +200,7 @@
               </div>
             </div>
             <div class="col-lg-6">
-              <div class="about-left-image  wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s">
+              <div class="about-left-image  wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay="0.3s">
                 <img src="assets/images/dole1-new.jpg" alt="">
               </div>
             </div>
@@ -214,11 +214,11 @@
         <div class="col-lg-12">
           <div class="row">
           <div class="col-lg-6">
-              <div class="about-left-image  wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s">
+              <div class="about-left-image  wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay="0.3s">
                 <img src="assets/images/dole2-new.jpg" alt="">
               </div>
             </div>
-            <div class="col-lg-6 align-self-center  wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
+            <div class="col-lg-6 align-self-center  wow fadeInRight" data-wow-duration="0.5s" data-wow-delay="0.3s">
               <div class="about-right-content">
                 <div class="section-heading">
                   <h6>Accreditation</h6>
@@ -239,7 +239,7 @@
         <div class="col-lg-12">
           <div class="row">
             
-            <div class="col-lg-6 align-self-center  wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
+            <div class="col-lg-6 align-self-center  wow fadeInRight" data-wow-duration="0.5s" data-wow-delay="0.3s">
               <div class="about-right-content">
                 <div class="section-heading">
                   <h6>Accreditation</h6>
@@ -250,7 +250,7 @@
               </div>
             </div>
             <div class="col-lg-6">
-              <div class="about-left-image  wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s">
+              <div class="about-left-image  wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay="0.3s">
                 <img src="assets/images/tesda2.png" alt="">
               </div>
             </div>
@@ -263,11 +263,11 @@
         <div class="col-lg-12">
           <div class="row">
             <div class="col-lg-6">
-              <div class="about-left-image  wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s">
+              <div class="about-left-image  wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay="0.3s">
                 <img src="assets/images/tesda1.jpg" alt="">
               </div>
             </div>
-            <div class="col-lg-6 align-self-center  wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
+            <div class="col-lg-6 align-self-center  wow fadeInRight" data-wow-duration="0.5s" data-wow-delay="0.3s">
               <div class="about-right-content">
                 <div class="section-heading">
                   <h6>Accreditation</h6>
@@ -322,7 +322,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
-          <div class="section-heading  wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.5s">
+          <div class="section-heading  wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.3s">
             <h6>Our Services</h6>
             <h4>What Our Agency <em>Provides</em></h4>
             <div class="line-dec"></div>
@@ -485,7 +485,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-6 offset-lg-3">
-          <div class="section-heading wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s">
+          <div class="section-heading wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.3s">
             <h6>Contact Us</h6>
             <h4>Get In Touch With Us <em>Now</em></h4>
             <div class="line-dec"></div>
@@ -597,7 +597,7 @@
                   <div class="container">
       <div class="row">
         <div class="col-lg-6 offset-lg-3">
-          <div class="section-heading wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s">
+          <div class="section-heading wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.3s">
             <h6>Contact Us</h6>
             <h4>Get In Touch With Us <em>Now</em></h4>
           </div>

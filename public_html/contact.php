@@ -73,7 +73,7 @@
   <!-- Pre-header End -->
 
   <!-- ***** Header Area Start ***** -->
-  <header class="header-area header-sticky wow slideInDown" data-wow-duration="0.75s" data-wow-delay="0s">
+  <header class="header-area header-sticky wow slideInDown" data-wow-duration="0.5s" data-wow-delay="0s">
     <div class="container">
       <div class="row">
         <div class="col-12">
@@ -137,7 +137,7 @@
   <!-- ***** Header Area End ***** -->
   
   <!-- ##### Breadcrumb Area Start ##### -->
-  <div class="wow fadeIn" id="top" data-wow-duration="1s" data-wow-delay="0.5s">
+  <div class="wow fadeIn" id="top" data-wow-duration="0.5s" data-wow-delay="0.3s">
   <div class="breadcrumb-area">
   <div class="left-content show-up header-text wow fadeInLeft" >
     <!-- Top Breadcrumb Area -->
@@ -169,7 +169,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-6 offset-lg-3">
-          <div class="section-heading wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s">
+          <div class="section-heading wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.3s">
             <h6>Contact Us</h6>
             <h4>Get In Touch With Us <em>Now</em></h4>
             <div class="line-dec"></div>
