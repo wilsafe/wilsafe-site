@@ -604,7 +604,7 @@
               <a class="portfolio-link" href="courses/bosh.html">
                 <div class="portfolio-item">
                 <div class="thumb">
-                  <img src="assets/images/portfolio/bosh-so1.png" alt="">
+                  <img src="assets/images/portfolio/bosh-so1.jpeg" alt="">
                 </div>
                 <div class="down-content">
                   <h4>Basic Occupational Safety and Health<br> (SO1)</h4>
@@ -617,7 +617,7 @@
               <a class="portfolio-link" href="courses/bosh2.html">
                 <div class="portfolio-item">
                 <div class="thumb">
-                  <img src="assets/images/portfolio/bosh-so2.png" alt="">
+                  <img src="assets/images/portfolio/bosh-so2.jpeg" alt="">
                 </div>
                 <div class="down-content">
                   <h4>Basic Occupational Safety and Health<br> (SO2)</h4>
@@ -630,7 +630,7 @@
               <a class="portfolio-link" href="courses/cosh.html">
                 <div class="portfolio-item">
                 <div class="thumb">
-                  <img src="assets/images/portfolio/cosh-so2.png" alt="">
+                  <img src="assets/images/portfolio/cosh-so2.jpeg" alt="">
                 </div>
                 <div class="down-content">
                   <h4>Construction Occupational Safety and Health</h4>
@@ -643,7 +643,7 @@
               <a class="portfolio-link" href="courses/lcm.html">
                 <div class="portfolio-item">
                 <div class="thumb">
-                  <img src="assets/images/portfolio/lcm.png" alt="">
+                  <img src="assets/images/portfolio/lcm.jpeg" alt="">
                 </div>
                 <div class="down-content">
                   <h4>Loss Control Management + HIRAC - Advanced Course</h4>
@@ -656,7 +656,7 @@
               <a class="portfolio-link" href="courses/tot.html">
                 <div class="portfolio-item">
                 <div class="thumb">
-                  <img src="assets/images/portfolio/tot.png" alt="">
+                  <img src="assets/images/portfolio/tot.jpeg" alt="">
                 </div>
                 <div class="down-content">
                   <h4>Training of Trainers<br>(TOT)</h4><br>
