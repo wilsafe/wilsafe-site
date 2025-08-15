@@ -222,7 +222,6 @@ section {
   background-position: 0 2.5%;
   border-radius: 5px;
   box-shadow: 0 0 35px rgba(0, 0, 0, 0.12);
-  cursor: pointer;
   transition: 0.5s;
 }
 h3 {
@@ -683,32 +682,7 @@ p {
   }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* animating texts */
 .text-container {
   position: relative;
 }
@@ -801,3 +775,21 @@ p {
     text-align: left;
   }
 }
+
+/* achievements section */
+.bg-light {
+  height: initial;
+}
+
+.bg-light h3 {
+  margin: initial;
+}
+
+.bg-light .card {
+  padding: .5rem;
+}
+
+.green-text h3 {
+  color: #2aaa2a;
+}
+

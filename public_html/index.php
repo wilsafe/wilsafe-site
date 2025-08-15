@@ -298,6 +298,65 @@
     </div>
   </div>
 
+<!-- Fact 2 - Bootstrap Brain Component -->
+<section class="bg-light py-3 py-md-5 py-xl-8">
+  <div class="container">
+    <div class="row gy-3 gy-md-5 gy-lg-0 align-items-center">
+      <div class="col-12 col-lg-5 wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay="0.3s">
+        <h3 class="fs-6 text-secondary mb-2 mb-xl-3">Dedicated to Raising Health, Safety Standards, and Skill Development Since 2022</h3>
+        <h2 class="display-5 mb-3 mb-xl-4">3 Years Of Continuous Service</h2>
+        <p class="mb-4 mb-xl-5">WilSafe Training Center is committed to enhancing workplace safety through DOLE-accredited trainings, empowering businesses to create safer environments.</p>
+        <div class="border-first-button scroll-to-section">
+          <a href="https://forms.gle/GYawG7MCTrM1oim47" target="_blank" class="active-btn">Train with Us</a>
+        </div>
+      </div>
+      <div class="col-12 col-lg-7 wow fadeInRight" data-wow-duration="0.5s" data-wow-delay="0.3s">
+        <div class="row justify-content-xl-end">
+          <div class="col-12 col-xl-11">
+            <div class="row gy-3 gy-md-4">
+              <div class="col-12 col-sm-6">
+                <div class="card border-0 border-primary shadow-sm">
+                  <div class="card-body text-center p-4 p-xxl-5 green-text">
+                    <h3 class="display-3 mb-2 fw-bold">100+</h3>
+                    <p class="fs-6 text-center mb-0 text-secondary">Successful Trainings</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-12 col-sm-6">
+                <div class="card border-0 border-primary shadow-sm">
+                  <div class="card-body text-center p-4 p-xxl-5 green-text">
+                    <h3 class="display-3 mb-2 fw-bold">3+</h3>
+                    <p class="fs-6 text-center mb-0 text-secondary">Years of Service</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-12 col-sm-6">
+                <div class="card border-0 border-primary shadow-sm">
+                  <div class="card-body text-center p-4 p-xxl-5 green-text">
+                    <h3 class="display-3 mb-2 fw-bold">1500+</h3>
+                    <p class="fs-6 text-center mb-0 text-secondary">Students Graduated</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-12 col-sm-6">
+                <div class="card border-0 border-primary shadow-sm">
+                  <div class="card-body text-center p-4 p-xxl-5 green-text">
+                    <h3 class="display-3 mb-2 fw-bold">30+</h3>
+                    <p class="fs-6 text-center mb-0 text-secondary">Companies Partnered</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+  
+
   <div id="about" class="about section">
     <div class="container">
       <div class="row">
@@ -974,22 +1033,84 @@
                 <div class="accordion-item">
                     <h2 class="accordion-header">
                         <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq1" aria-expanded="true" aria-controls="faq1">
-                            1. How to enroll in OSH training?
+                            How to enroll in OSH training?
                             </button>
                     </h2>
                     <div id="faq1" class="accordion-collapse collapse show" data-bs-parent="#faqAccordion">
                         <div class="accordion-body">
-                            Kindly fill out the enrollment form indicating your contact details and the course you like to enroll for and we will contact you regarding the enrollment procedure. You can receive the enrollment form by contacting us or by visiting our website. You reach us on our contact page for more info.
+                            To enroll in our OSH training, kindly reach out to us via our official Facebook page or email at <a href="mailto:wilsafe2022@gmail.com">wilsafe2022@gmail.com</a> and <a href="mailto:wilsafe.oshtraining@gmail.com">wilsafe.oshtraining@gmail.com</a> for the quotation of the training you want to enroll for before proceeding with the <a href="https://forms.gle/GYawG7MCTrM1oim47" target="_blank"> Enrollment form</a> here on our website. Fill out the enrollment form and settle the training fee (We accept 50% down payment) and we will contact you regarding the next step.
                         </div>
                     </div>
                 </div>
                 <div class="accordion-item">
                     <h2 class="accordion-header">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2" aria-expanded="false" aria-controls="faq2">
-                            2. How to enroll in SMAW NC I and NC II?
+                            How much is the training fee for OSH training and what are the inclusions?
                             </button>
                     </h2>
                     <div id="faq2" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                        <div class="accordion-body">
+                            To know about the training fee, kindly send us a message via our official Facebook Page for the training fee of the OSH training you want to enroll for. You can also reach us via email at <a href="mailto:wilsafe2022@gmail.com">wilsafe2022@gmail.com</a> and <a href="mailto:wilsafe.oshtraining@gmail.com">wilsafe.oshtraining@gmail.com</a> for quotation requests. <br><br>
+
+                            <p>Training Inclusions</p>
+                            <ul>
+                              <li>Certificate of Completion (Digital and physical copies—Lifetime no expiry)</li>
+                              <li>Safety Officer PVC ID</li>
+                              <li>FREE OSH E-modules & Reports</li>
+                              <li>FREE E-OSH LAW STANDARD COPY</li>
+                              <li>FREE Shipping Nationwide (One-time only)</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq3" aria-expanded="false" aria-controls="faq3">
+                            How do we receive our OSH certificates after the training?
+                            </button>
+                    </h2>
+                    <div id="faq3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                        <div class="accordion-body">
+                            We will ship your certificate as soon as the training ends. You will immediately receive the soft copy of your certificate and then we will process the shipping of the hard copy. Please be informed that the arrival of your certificates may vary depending on your location. <br><br>
+                            <p>Estimated arrival of certificates per location</p>
+                            <ul>
+                              <li>LUZON: <b>1–3</b> Days</li>
+                              <li>VISAYAS and MINDANAO: <b>5–7</b> Days</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq4" aria-expanded="false" aria-controls="faq3">
+                            Do you offer onsite training?
+                            </button>
+                    </h2>
+                    <div id="faq4" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                        <div class="accordion-body">
+                            Yes, if you wish your training to be done at your company premises, we can arrange an onsite training for you.
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq5" aria-expanded="false" aria-controls="faq3">
+                            What is your payment terms and mode of payment?
+                            </button>
+                    </h2>
+                    <div id="faq5" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                        <div class="accordion-body">
+                            A payment must be made upon filling out our enrollment form. We accept initial 50% down payment and the other 50% must be settled before the start of training. We accept payment thru <b>GCash</b> and <b>PSBank</b>.
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq6" aria-expanded="false" aria-controls="faq2">
+                            How to enroll in SMAW NC I and NC II?
+                            </button>
+                    </h2>
+                    <div id="faq6" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                         <div class="accordion-body">
                             To enroll in SMAW NC I and NC II, kindly visit our office by bringing the requirements and filling out the registration form.
                         </div>
@@ -997,61 +1118,25 @@
                 </div>
                 <div class="accordion-item">
                     <h2 class="accordion-header">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq3" aria-expanded="false" aria-controls="faq2">
-                            3. Is there an age requirement or limit for OSH and TESDA SMAW Training?
-                            </button>
-                    </h2>
-                    <div id="faq3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                        <div class="accordion-body">
-                            There is no age limit for OSH training. Similarly in SMAW training, there is no age limit however, the student must be at least 18 years old or older.
-                        </div>
-                    </div>
-                </div>
-                <div class="accordion-item">
-                    <h2 class="accordion-header">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq4" aria-expanded="false" aria-controls="faq3">
-                            4. How do we receive our OSH certificates after the training?
-                            </button>
-                    </h2>
-                    <div id="faq4" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                        <div class="accordion-body">
-                            We will ship your certificate as soon as the training ends. You will immediately receive the soft copy of your certificate and then we will process the shipping of the hard copy.
-                        </div>
-                    </div>
-                </div>
-                <div class="accordion-item">
-                    <h2 class="accordion-header">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq5" aria-expanded="false" aria-controls="faq3">
-                            5. Do you offer onsite training?
-                            </button>
-                    </h2>
-                    <div id="faq5" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                        <div class="accordion-body">
-                            Yes, If you wish your training to be done at your company premises, we can arrange an onsite training for you.
-                        </div>
-                    </div>
-                </div>
-                <div class="accordion-item">
-                    <h2 class="accordion-header">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq6" aria-expanded="false" aria-controls="faq3">
-                            6. What is your payment terms and mode of payment?
-                            </button>
-                    </h2>
-                    <div id="faq6" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                        <div class="accordion-body">
-                            A payment must be made upon filling out our enrollment form. We accept initial 50% down payment and the other 50% must be settled before the start of training. We accept payment thru GCash and PSBank.
-                        </div>
-                    </div>
-                </div>
-                <div class="accordion-item">
-                    <h2 class="accordion-header">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq7" aria-expanded="false" aria-controls="faq3">
-                            7. Is the SMAW NC I and NC II free training?
+                            Is the SMAW NC I and NC II free training?
                             </button>
                     </h2>
                     <div id="faq7" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                         <div class="accordion-body">
-                            Good news! Yes, it is a free training scholarship (including allowance) granted from TESDA. To those who are interested in a personalized schedule and setup of training, we also offer regular student training.
+                            Good news! Yes, it is a free training scholarship (TWSP with allowance) granted from TESDA. To those who are interested in a personalized schedule and setup of training, we also offer regular student training.
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq8" aria-expanded="false" aria-controls="faq2">
+                            Is there an age requirement or limit for OSH and TESDA SMAW Training?
+                            </button>
+                    </h2>
+                    <div id="faq8" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                        <div class="accordion-body">
+                            There is no age limit for OSH training. Similarly in SMAW training, there is no age limit however, the student must be at least 18 years old or older.
                         </div>
                     </div>
                 </div>
