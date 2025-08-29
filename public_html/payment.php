@@ -23,7 +23,7 @@
 <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16x16.png">
 <link rel="manifest" href="assets/site.webmanifest">
 
-    <title>Our Team - WilSafe Training Center</title>
+    <title>Payment Methods - WilSafe Training Center</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -136,7 +136,7 @@
   <div class="left-content show-up header-text wow fadeInLeft" >
     <!-- Top Breadcrumb Area -->
     <div class="top-breadcrumb-area bg-img bg-overlay d-flex align-items-center justify-content-center" style="background-image: url(assets/images/bg.jpg);">
-        <h2>Our Team</h2>
+        <h2>Payment Methods</h2>
     </div>
 
     <div class="container">
@@ -145,7 +145,7 @@
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb">
                         <li class="breadcrumb-item"><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">Our Team</li>
+                        <li class="breadcrumb-item active" aria-current="page">Payment Methods</li>
                     </ol>
                 </nav>
             </div>
@@ -156,251 +156,19 @@
 </div>
 <!-- ##### Breadcrumb Area End ##### -->
 
-
-
-<div class="py-5 team4 contact-us section">
-  <div class="container">
-    <div class="row justify-content-center mb-4">
-      <!-- <div class="col-md-7 text-center">
-        <h6 class="mb-3">Meet Our Team</h6>
-        <h6 class="subtitle">You can relay on our amazing features list and also our customer services will be great experience for you without doubt and in no-time</h6>
-      </div> -->
-      <div>
+<div id="contact" class="contact-us section">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6 offset-lg-3">
           <div class="section-heading wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.3s">
-            <h6 style="font-size: 4.5rem;">Meet Our Team</h6>
-            <h4 style="font-size: 2rem;">WilSafe Training Center Corp. <em>Team</em></h4>
-            <div class="line-dec" style="width: 100%;"></div>
-          </div>
-        </div>
-    </div>
-    <div class="row wow fadeInRight">
-      <!-- column  -->
-      <div class="col-lg-3 mb-4">
-        <!-- Row -->
-        <div class="row">
-          <div class="col-md-12">
-            <img src="./assets/images/team/mr_wilbert.png" alt="wrapkit" class="img-fluid rounded-circle" />
-          </div>
-          <div class="col-md-12 text-center">
-            <div class="pt-2">
-              <h5 class="mt-4 font-weight-medium mb-0">Mr. Wilbert T. Tolosa</h5>
-              <h6 class="subtitle">CEO/Training President</h6>
-              <h6 class="subtitle">TVI/DOLE-OSHC</h6>
-              <!-- <p>You can relay on our amazing features list and also our customer services will be great experience.</p> -->
-              <ul class="list-inline">
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-facebook"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-twitter"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-instagram"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-behance"></i></a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <!-- Row -->
-      </div>
-      <!-- column  -->
-      <!-- column  -->
-      <div class="col-lg-3 mb-4">
-        <!-- Row -->
-        <div class="row">
-          <div class="col-md-12">
-            <img src="./assets/images/team/ms_marielle.png" alt="wrapkit" class="img-fluid rounded-circle" />
-          </div>
-          <div class="col-md-12 text-center">
-            <div class="pt-2">
-              <h5 class="mt-4 font-weight-medium mb-0">Ms. Marielle Molon Tolosa</h5>
-              <h6 class="subtitle">Vice President - Marketing/HR</h6>
-              <h6 class="subtitle">TVI/DOLE-OSHC</h6>
-              <!-- <p>You can relay on our amazing features list and also our customer services will be great experience.</p> -->
-              <ul class="list-inline">
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-facebook"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-twitter"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-instagram"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-behance"></i></a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <!-- Row -->
-      </div>
-      <!-- column  -->
-      <!-- column  -->
-      <div class="col-lg-3 mb-4">
-        <!-- Row -->
-        <div class="row">
-          <div class="col-md-12">
-            <img src="./assets/images/team/ms_renellee.jpg" alt="wrapkit" class="img-fluid rounded-circle" />
-          </div>
-          <div class="col-md-12 text-center">
-            <div class="pt-2">
-              <h5 class="mt-4 font-weight-medium mb-0">Renelle Sotto Belarmino</h5>
-              <h6 class="subtitle">BOD</h6>
-              <h6 class="subtitle">TVI</h6>
-              <!-- <p>You can relay on our amazing features list and also our customer services will be great experience.</p> -->
-              <ul class="list-inline">
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-facebook"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-twitter"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-instagram"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-behance"></i></a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <!-- Row -->
-      </div>
-      <!-- column  -->
-      <!-- column  -->
-      <div class="col-lg-3 mb-4">
-        <!-- Row -->
-        <div class="row">
-          <div class="col-md-12">
-            <img src="./assets/images/team/mr_jared.jpg" alt="wrapkit" class="img-fluid rounded-circle" />
-          </div>
-          <div class="col-md-12 text-center">
-            <div class="pt-2">
-              <h5 class="mt-4 font-weight-medium mb-0">Jared Diaz Belarmino</h5>
-              <h6 class="subtitle">Vice President - Operation</h6>
-              <h6 class="subtitle">TVI</h6>
-              <!-- <p>You can relay on our amazing features list and also our customer services will be great experience.</p> -->
-              <ul class="list-inline">
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-facebook"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-twitter"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-instagram"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-behance"></i></a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <!-- Row -->
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="container"> 
-  <img src="assets/images/org-chart.png" alt="Organizational Chart"> 
-</div>
-
-
-  <!-- <div id="about" class="about section">
-    <div class="container">
-      <div class="row">s
-        <div class="col-lg-12">
-          <div class="row">
-            <div class="col-lg-6">
-              <div class="about-left-image  wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay="0.3s">
-                <img src="assets/images/about.JPG" alt="">
-              </div>
-            </div>
-            <div class="col-lg-6 align-self-center  wow fadeInRight" data-wow-duration="0.5s" data-wow-delay="0.3s">
-              <div class="about-right-content">
-                <div class="section-heading">
-                  <h6>About Us</h6>
-                  <h4>Who is <em>WilSafe Training Center</em></h4>
-                  <div class="line-dec"></div>
-                </div>
-                <p>Wilsafe Training Center is the provider of Occupational, Health, Safety, Quality, Practical, Applied and Online Training programmers which equip you with the necessary skills and tools to develop yourself or your business. We offer a range of courses from beginner to advance as well as full packages for certifications. Wilsafe delivers these courses through our trainers using the latest knowledge and experience in their field within Philippine local and National, ensuring you recieve the best quality teaching, tailored to your needs.<span id="dots">...</span><span id="more"></br><br>
-                  Initiated by a team of OSH Practitioners and Consultant experts in the field of training and development, Wilsafe will continually invest in our courses to ensure that you have the latest information and expect insight available. We make every course count for your career by making them highly relevant to today's industy. </br></br>
-                  Wilsafe are committed to helping organizations create a positive working culture and supporting their professional development though a wide range of Philippine recognized qualifications.</span>
-                    <button type="button" class="btn" onclick="myFunction()" id="myBtn">Read more</button></p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12">
-          <div class="row">
-            
-            <div class="col-lg-6 align-self-center  wow fadeInRight" data-wow-duration="0.5s" data-wow-delay="0.3s">
-              <div class="about-right-content">
-                <div class="section-heading">
-                  <h6>Accreditation</h6>
-                  <h4>TESDA <em>Assessment Center</em></h4>
-                  <div class="line-dec"></div>
-                </div>
-                <p>December 1, 2022  WilSafe Training  Center Corp. recieved our Assessment Center Accreditation for Shielded Metal Arc Welding (SMAW) NC I and Shielded Metal Arc Welding (SMAW) NC II. <a href="https://www.tesda.gov.ph/AssessmentCenters">Click here</a></p>
-              </div>
-            </div>
-            <div class="col-lg-6">
-              <div class="about-left-image  wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay="0.3s">
-                <img src="assets/images/tesda2.jpg" alt="">
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12">
-          <div class="row">
-            <div class="col-lg-6">
-              <div class="about-left-image  wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay="0.3s">
-                <img src="assets/images/tesda1.jpg" alt="">
-              </div>
-            </div>
-            <div class="col-lg-6 align-self-center  wow fadeInRight" data-wow-duration="0.5s" data-wow-delay="0.3s">
-              <div class="about-right-content">
-                <div class="section-heading">
-                  <h6>Accreditation</h6>
-                  <h4>TESDA <em>Training Center</em></h4>
-                  <div class="line-dec"></div>
-                </div>
-                <p>December 09, 2022  WilSafe Training  Center Corp. recieved our Accreditation for Shielded Metal Arc Welding (SMAW) NC I and Shielded Metal Arc Welding (SMAW) NC II. <a href="https://www.tesda.gov.ph/Tvi/Result?SearchCourse=welding&SearchIns=wilsafe&SearchLoc=">Click here</a></p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div> -->
-
-  <div id="about" class="about section">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12">
-          <div class="row">
-      <div class="col-xl-6">
-        <div class="tm-section-half">     
-          <div class="section-heading">                 
-            <h6>Mission</h6>
+            <h4>Payment <em>Methods</em></h4>
             <div class="line-dec"></div>
           </div>
-          <br>
-            <p class="mb-5">
-            MISSION To provide the high-caliber and practical standards for Occupational Safety, Health, and training  through a Quality training program well delivered by the competent and dedicated training staff that will be supported by the use of the most advanced technology, equipment, and facilities.
-            </p>
         </div>
       </div>
-      <div class="col-xl-6">
-        <div class="tm-section-half">
-          <div class="section-heading">                 
-            <h6>Vision</h6>
-            <div class="line-dec"></div>
-          </div>
-          <br>
-            <p class="mb-5">
-              VISION To provide sustainable quality occupational, safety and health training programs, so the WilSafe Training Center will always choice of our clients. WilSafe is committed to helping organizations create a positive working culture and supporting their professional development through a wide range of Philippine-recognized qualifications.
-            </p>
-        </div>
-      </div>
+      <img src="./assets/images/payment-details.png" class="img-fluid w-auto mx-auto d-block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.3s" alt="Responsive image">
     </div>
   </div>
-</div>
-</div>
-  </div>
-
-  
-
-
-
-
-  
-  
-  
 
   <div id="contact" class="contact-us section">
     <div class="container">
@@ -440,7 +208,7 @@
                       <div class="info-post">
                         <div class="icon">
                           <img src="assets/images/phone-icon.png" alt="">
-                          <a href="#">(0926) 077 8595<br>(0949) 161 9654<br>(049) 5403516</a>
+                          <a href="#">(0926) 077 8595<br>(0995) 673 0606<br>(049) 5403516</a>
                         </div>
                       </div>
                     </div>
@@ -590,7 +358,6 @@
 </footer>
 <!-- Footer -->
 
-      
 <!-- Portfolio Modals-->
 <!-- Portfolio item 1 modal popup-->
       <div class="portfolio-modal modal fade" id="cont" tabindex="-1" role="dialog" aria-hidden="true">

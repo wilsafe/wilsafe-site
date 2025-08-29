@@ -3,10 +3,23 @@ footer{
     background-image: url(../images/footerbg.png);
     height: auto;
     width: 100%;
-
     padding-top: 40px;
     color: #fff;
 }
+
+footer section {
+    height: initial;
+}
+
+footer .footer-copyright {
+    background: linear-gradient(90deg, rgba(0, 111, 47, 1) 50%, rgba(13, 184, 85, 1) 100%);
+    color: #fff;
+}
+
+.mop-image {
+    width: initial;
+}
+
 .footer-content{
     display: flex;
     align-items: center;
@@ -87,7 +100,6 @@ footer{
   display: flex;
   justify-content: center;
   margin: 1rem 0;
-
 }
 .footer-menu ul{
   display: flex;
