@@ -1039,7 +1039,7 @@
                     </h2>
                     <div id="faq1" class="accordion-collapse collapse show" data-bs-parent="#faqAccordion">
                         <div class="accordion-body">
-                            To enroll in our OSH training, kindly reach out to us via our official Facebook page or email at <a href="mailto:wilsafe2022@gmail.com">wilsafe2022@gmail.com</a> and <a href="mailto:wilsafe.oshtraining@gmail.com">wilsafe.oshtraining@gmail.com</a> for the quotation of the training you want to enroll for before proceeding with the <a href="https://forms.gle/GYawG7MCTrM1oim47" target="_blank"> Enrollment form</a> here on our website. Fill out the enrollment form and settle the training fee (We accept 50% down payment) and we will contact you regarding the next step.
+                            To enroll in our OSH training, kindly reach out to us via our official Facebook page or email at <a href="mailto:wilsafe2022@gmail.com">wilsafe2022@gmail.com</a> and <a href="mailto:wilsafe.oshtraining@gmail.com">wilsafe.oshtraining@gmail.com</a> for the quotation of the training you want to enroll for before proceeding with the <a href="https://forms.gle/GYawG7MCTrM1oim47" target="_blank"> Enrollment form</a> here on our website. Fill out the enrollment form, settle the training fee, and we will contact you regarding the next step.
                         </div>
                     </div>
                 </div>
@@ -1101,7 +1101,7 @@
                     </h2>
                     <div id="faq5" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                         <div class="accordion-body">
-                            A payment must be made upon filling out our enrollment form. We accept initial 50% down payment and the other 50% must be settled before the start of training. We accept payment thru <a href="payment.php"><b>GCash</b> and <b>PSBank</b></a>.
+                            A payment must be made upon filling out our enrollment form. We accept payment thru <a href="payment.php"><b>GCash</b> and <b>PSBank</b></a>.
                         </div>
                     </div>
                 </div>
