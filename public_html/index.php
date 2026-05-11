@@ -318,7 +318,7 @@
               <div class="col-12 col-sm-6">
                 <div class="card border-0 border-primary shadow-sm">
                   <div class="card-body text-center p-4 p-xxl-5 green-text">
-                    <h3 class="display-3 mb-2 fw-bold">100+</h3>
+                    <h3 class="display-3 mb-2 fw-bold">200+</h3>
                     <p class="fs-6 text-center mb-0 text-secondary">Successful Trainings</p>
                   </div>
                 </div>
@@ -334,7 +334,7 @@
               <div class="col-12 col-sm-6">
                 <div class="card border-0 border-primary shadow-sm">
                   <div class="card-body text-center p-4 p-xxl-5 green-text">
-                    <h3 class="display-3 mb-2 fw-bold">1500+</h3>
+                    <h3 class="display-3 mb-2 fw-bold">2500+</h3>
                     <p class="fs-6 text-center mb-0 text-secondary">Students Graduated</p>
                   </div>
                 </div>
