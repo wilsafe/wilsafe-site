@@ -5,34 +5,20 @@
         ========================================
         /* */
         :root {
-            --color-background: #ffffff;
-            --color-text-primary: #343a40;
-            --color-text-secondary: #6c757d;
-            --color-primary-cta: #0d6efd;
-            --color-primary-cta-hover: #0b5ed7;
-            --color-border-subtle: #e9ecef;
-            
-            --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-            --font-weight-normal: 400;
-            --font-weight-bold: 600;
-
             --navbar-height: 70px;
             --navbar-padding: 1rem;
             --container-width: 1140px;
             --border-radius: 0.25rem;
             --transition-speed: 0.2s;
-        } */
+        } 
 
         /*
         ========================================
         Global Resets & Base Styles
         ========================================
         */
-        *, *::before, *::after { box-sizing: border-box; }
+        *, *::before, *::after { box-sizing: border-box; font-family: 'Poppins', sans-serif; }
 
-        body {
-            font-family: 'Poppins', sans-serif;
-        }
         
         /* Make the page scrollable to demonstrate the sticky effect */
         .content {
