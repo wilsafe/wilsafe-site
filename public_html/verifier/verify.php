@@ -5,7 +5,7 @@ if (isset($_GET['rid'])) {
     $reference_id = $_GET['rid'];
 
     $result  = [];
-    if (($handle = fopen("Certificate Website - users.csv", "r")) !== FALSE) {
+    if (($handle = fopen("Certificate Issuance Registry - certificates.csv", "r")) !== FALSE) {
         while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
             // echo "reference_id = " . $reference_id;
             // echo "<br>";
@@ -72,6 +72,7 @@ if (isset($_GET['rid'])) {
 <body>
     <div class="container bootstrap snippet">
         <h1>Certificate Verification</h1>
+        <p>He/She is a bona fide completer of the training program conducted by WilSafe Training Center.</p>
         <div class="panel-body inf-content">
             <div class="row">
                 <?php
