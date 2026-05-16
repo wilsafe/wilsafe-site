@@ -35,6 +35,10 @@ if (isset($_GET['rid'])) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="../assets/css/templatemo-digimedia-v3.css">
+    <link rel="stylesheet" href="../assets/css/verify.css">
+    
     <!-- Favicon-->
     <link rel="apple-touch-icon" sizes="180x180" href="../assets/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="../assets/favicon-32x32.png">
@@ -70,8 +74,34 @@ if (isset($_GET['rid'])) {
 </head>
 
 <body>
+<header class="navbar header-area">
+        <div class="navbar__container main-nav">
+            <a href="../index.php" class="logo">
+              <img src="../assets/images/navbar-logo.jpg" alt="">
+            </a>
+            
+            <button class="navbar__toggle" 
+                    id="navbarToggle" 
+                    aria-label="Toggle navigation" 
+                    aria-controls="navbarMenu" 
+                    aria-expanded="false">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </button>
+            
+            <nav id="navbarMenu" class="navbar__menu" role="navigation">
+                <ul class="navbar__list">
+                    <li class="navbar__item"><a href="../index.php" class="navbar__link">Home</a></li>
+                    <li class="navbar__item"><a href="../about.php" class="navbar__link">About Us</a></li>
+                    <li class="navbar__item"><a href="../contact.php" class="navbar__link navbar__link--cta">Contact Us</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
     <div class="container bootstrap snippet">
-        <h1>Certificate Verification</h1>
+        <h1 class="certificate-verification">Certificate Verification</h1>
         <p>He/She is a bona fide completer of the training program conducted by WilSafe Training Center.</p>
         <div class="panel-body inf-content">
             <div class="row">
@@ -123,6 +153,23 @@ if (isset($_GET['rid'])) {
             </div>
         </div>
     </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const navbarToggle = document.getElementById('navbarToggle');
+            const navbarMenu = document.getElementById('navbarMenu');
+
+            if (navbarToggle && navbarMenu) {
+                navbarToggle.addEventListener('click', function () {
+                    navbarToggle.classList.toggle('is-active');
+                    navbarMenu.classList.toggle('is-active');
+                    
+                    const isExpanded = navbarMenu.classList.contains('is-active');
+                    navbarToggle.setAttribute('aria-expanded', isExpanded);
+                });
+            }
+        });
+    </script>
 </body>
 
 </html>

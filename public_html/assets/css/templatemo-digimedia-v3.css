@@ -2178,6 +2178,9 @@ responsive
   form#contact {
     padding: 45px;
   }
+  .certificate-verification {
+    font-size: 2.5rem;
+  }
 }
 
 @media (max-width: 767px) {
