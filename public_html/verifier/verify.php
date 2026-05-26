@@ -5,7 +5,7 @@ if (isset($_GET['rid'])) {
     $reference_id = $_GET['rid'];
 
     $result  = [];
-    if (($handle = fopen("Certificate Issuance Registry - certificates.csv", "r")) !== FALSE) {
+    if (($handle = fopen("Generated Certificates - Certificates.csv", "r")) !== FALSE) {
         while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
             // echo "reference_id = " . $reference_id;
             // echo "<br>";
