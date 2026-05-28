@@ -5,6 +5,11 @@
         ========================================
         /* */
         :root {
+            --color-background: #ffffff;
+            --color-text-primary: #343a40;
+            --color-text-secondary: #6c757d;
+            --color-border-subtle: #e9ecef;
+
             --navbar-height: 70px;
             --navbar-padding: 1rem;
             --container-width: 1140px;
@@ -76,7 +81,7 @@
         */
         .navbar__toggle {
             display: block;
-            border: 1px solid var(--color-border-subtle);
+            border: 0px solid var(--color-border-subtle);
             border-radius: var(--border-radius);
             padding: 0.25rem 0.75rem;
             background: transparent;
