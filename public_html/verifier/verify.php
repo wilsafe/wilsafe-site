@@ -102,7 +102,13 @@ if (isset($_GET['rid'])) {
 
     <div class="container bootstrap snippet">
         <h1 class="certificate-verification">Certificate Verification</h1>
-        <p>He/She is a bona fide completer of the training program conducted by WilSafe Training Center.</p>
+        <?php
+        if ($show_detail) {
+        ?>
+            <p>He/She is a bona fide completer of the training program conducted by WilSafe Training Center.</p>
+        <?php
+        }
+        ?>
         <div class="panel-body inf-content">
             <div class="row">
                 <?php
