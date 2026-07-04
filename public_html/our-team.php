@@ -277,9 +277,9 @@
   </div>
 </div>
 
-<div class="container"> 
+<!-- <div class="container"> 
   <img src="assets/images/org-chart.png" alt="Organizational Chart"> 
-</div>
+</div> -->
 
 
   <!-- <div id="about" class="about section">
